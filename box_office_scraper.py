@@ -2,51 +2,56 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-def scrape_and_save_data(BASE_URL, uncleaned_filename):
-    # List to store the scraped data from all years
+def scrape_and_save_data(base_url, start_year, end_year, uncleaned_filename):
+    """
+    Scrape box office data from a given URL pattern and range of years, then save to a CSV file.
+
+    :param base_url: The URL pattern to scrape data from, with '{}' placeholder for the year.
+    :param start_year: The starting year for the data scraping.
+    :param end_year: The ending year for the data scraping (inclusive).
+    :param uncleaned_filename: Path to the CSV file to save the scraped data.
+    """
     master_data_list = []
 
-    # Loop over the range of years
-    for year in range(2002, 2024):
-        # Update the URL for the specific year
-        URL = BASE_URL.format(year)
+    for year in range(start_year, end_year + 1):
+        url = base_url.format(year)
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
 
-        # Send an HTTP request to the URL
-        response = requests.get(URL)
-
-        # If request was successful
-        if response.status_code == 200:
-            # Initialize BeautifulSoup object to parse the content
             soup = BeautifulSoup(response.content, 'html.parser')
-
-            # Find all rows in the table
             rows = soup.find_all('tr')
 
-            # Iterate over rows to extract data
-            for row in rows[1:]:  # Skip the header row
+            for row in rows[1:]:
                 columns = row.find_all('td')
-
-                # Extract the number 1 release and weekend number
                 number_1_release = columns[6].a.get_text() if columns[6].a else None
                 weekend_number = columns[10].a.get_text() if columns[10].a else None
 
-                # Append data to the master list
-                master_data_list.append({'Year': year,
-                                         'Number_1_Release': number_1_release,
-                                         'Weekend_Number': weekend_number})
+                master_data_list.append({
+                    'Year': year,
+                    'Number_1_Release': number_1_release,
+                    'Weekend_Number': weekend_number
+                })
 
-    # Convert master list of dictionaries to DataFrame
-    df = pd.DataFrame(master_data_list)
+        except requests.HTTPError as http_err:
+            print(f"HTTP error for year {year}: {http_err}")
+        except Exception as err:
+            print(f"An error occurred for year {year}: {err}")
 
-    # Save raw data to CSV
-    df.to_csv(uncleaned_filename, index=False)
-    print(f"Raw data saved to '{uncleaned_filename}'")
+    try:
+        df = pd.DataFrame(master_data_list)
+        with open(uncleaned_filename, 'w', newline='', encoding='utf-8') as file:
+            df.to_csv(file, index=False)
+        print(f"Raw data saved to '{uncleaned_filename}'")
+    except Exception as e:
+        print(f"An error occurred while saving the file {uncleaned_filename}: {e}")
 
+def main():
+    base_url_uk = 'https://www.boxofficemojo.com/weekend/by-year/{}/?area=GB'
+    base_url_usa = 'https://www.boxofficemojo.com/weekend/by-year/{}/'
 
-# UK data
-BASE_URL_UK = 'https://www.boxofficemojo.com/weekend/by-year/{}/?area=GB'
-scrape_and_save_data(BASE_URL_UK, 'box_office_data_uncleaned/box_office_uncleaned_uk.csv')
+    scrape_and_save_data(base_url_uk, 2002, 2023, 'box_office_data_uncleaned/box_office_uncleaned_uk.csv')
+    scrape_and_save_data(base_url_usa, 2002, 2023, 'box_office_data_uncleaned/box_office_uncleaned_usa.csv')
 
-# USA data
-BASE_URL_USA = 'https://www.boxofficemojo.com/weekend/by-year/{}/'
-scrape_and_save_data(BASE_URL_USA, 'box_office_data_uncleaned/box_office_uncleaned_usa.csv')
+if __name__ == "__main__":
+    main()
