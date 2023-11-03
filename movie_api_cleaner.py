@@ -28,7 +28,8 @@ def clean_movie_data(file_path):
         'Comedy': ['Comedy'],
         'Science Fiction/Fantasy': ['Science Fiction', 'Fantasy'],
         'Romance': ['Romance'],
-        'Horror/Thriller/Crime/Mystery': ['Horror', 'Thriller', 'Crime', 'Mystery']
+        'Horror/Thriller/Crime/Mystery': ['Horror', 'Thriller', 'Crime', 'Mystery'],
+        'Others': ['Animation', 'Documentary', 'Family', 'History', 'Music', 'War', 'Western']
     }
 
     # Function to assign binary values based on genre groups
