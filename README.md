@@ -5,11 +5,12 @@ This project utilizes Python, Docker, and Apache Airflow to create an ETL pipeli
 
 ## Features
 - An Apache Airflow-managed ETL pipeline for seamless orchestration (setup only, DAG implementation to be added soon).
-- Box Office Mojo's scraping for top box office data.
-- TMDb API integration for enriching scraped data.
-- Data processing with Pandas for enhanced analytics after each extraction.
+- Box Office Mojo's scraping for Box Office weekend no.1 releases for every weekend for the past 22 years, separately for UK and USA.
+- TMDb API integration data called to find detailed data for each unique movie in both lists.
+- Data processing with Pandas for enhanced analytics after each extraction based on analysis requirements.
 - PostgreSQL integration for data storage, managed with Docker Compose.
-- Power BI dashboard for insightful visualization of movie data, provided separately to GITHUB.
+- Power BI dashboard for insightful visualization of movie data, provided separately from GITHUB.
+- Metrics investigated include, difference in popularity of genres across UK and USA, relation between runtime and revenue, release month and genre, among others.
 
 
 ## Workflow Overview
@@ -31,10 +32,10 @@ The ETL pipeline operates as follows:
    - `data_postgres_loader.py`: Takes the cleaned data and loads it into PostgreSQL, where it is structured into tables suitable for complex queries and analysis.
 
 4. **Data Orchestration:**
-   - Apache Airflow manages the ETL pipeline, ensuring that tasks are executed in the correct sequence and monitoring for any failures or retries.
+   - Apache Airflow manages the ETL pipeline, ensuring that tasks are executed in the correct sequence and monitoring for any failures or retries (initial setup only).
 
 5. **Data Visualization:**
-   - Power BI Dashboard: Connects to the PostgreSQL database to present the data through interactive visualizations, enabling users to derive insights and trends from the movie performance metrics.
+   - Power BI Dashboard: Connects to the PostgreSQL database to present the data through interactive visualizations, enabling users to derive insights and trends from the movie performance metrics. Axis missing in Dashboard due 
 
 Once Airflow DAGs are setup, each script will be orchestrated by Airflow to run in the correct order, ensuring that the data flows smoothly from extraction to visualization.
 Currently, this execution has to be done manually.
@@ -64,5 +65,12 @@ Currently, this execution has to be done manually.
 - Initialize Airflow: `docker-compose up airflow-init`.
 - Start the ETL pipeline: `docker-compose up -d`.
 - Execute scripts in order: `box_office_scraper.py`, `box_office_cleaner.py`, `movie_api_caller.py`, `movie_api_cleaner.py`, `data_postgres_loader.py`. Ensure you insert your TMDb API key in `movie_api_caller.py`.
+
+## Power BI Dashboard
+Here is a screenshot of my dashboard:
+![Alt text](images/power_bi_dashboard_screenshot.png)
+
+## PostGres pgAdmin interface
+![Alt text](images/postgres_pg_admin_interface.png)
 
 

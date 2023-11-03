@@ -1,141 +1,961 @@
 Title,Release Date,Runtime,Genres,Revenue
-Calendar Girls,2003-09-02,108,"Drama, Comedy",96542059
-Jackass: The Movie,2002-10-25,88,"Comedy, Documentary",64282312
-The Last Samurai,2003-12-05,154,"Drama, Action, War",456758981
-The Haunted Mansion,2003-11-26,88,"Thriller, Fantasy, Comedy, Family, Mystery",182290266
-"I, Robot",2004-07-15,115,"Action, Science Fiction",347234916
-Men in Black II,2002-07-03,88,"Action, Adventure, Comedy, Science Fiction",445135288
-The Cat in the Hat,2003-11-21,81,"Comedy, Adventure, Family, Fantasy",133800000
-The Incredibles,2004-10-27,115,"Action, Adventure, Animation, Family",631442092
-The Scorpion King,2002-04-18,92,"Action, Adventure, Fantasy",165333180
-Barbershop 2: Back in Business,2004-01-20,106,"Comedy, Drama",65070412
-X2,2003-04-27,133,"Adventure, Action, Science Fiction",407711549
-The Village,2004-07-30,108,"Drama, Mystery, Thriller",256697520
-The Forgotten,2004-09-24,91,"Thriller, Drama, Mystery, Science Fiction",117592831
-Harry Potter and the Prisoner of Azkaban,2004-05-31,141,"Adventure, Fantasy",789804554
-Spy Kids 3: Game Over,2003-07-25,84,"Action, Adventure, Comedy, Family, Science Fiction",197011982
-Mr. Deeds,2002-06-28,96,"Comedy, Romance",171269535
-Terminator 3: Rise of the Machines,2003-07-02,109,"Action, Thriller, Science Fiction",435000000
-Two Weeks Notice,2002-12-19,101,"Comedy, Romance",199043242
-You Got Served,2004-01-30,95,"Music, Drama",0
-Bad Boys II,2003-07-18,147,"Adventure, Action, Comedy, Thriller, Crime",273339556
+Lone Survivor,2013-12-24,121,"War, Action, Drama",149295601
+Iron Man 2,2010-04-28,124,"Adventure, Action, Science Fiction",623933331
 Wimbledon,2004-09-13,98,"Comedy, Romance",41512007
-Resident Evil: Apocalypse,2004-09-10,94,"Horror, Action, Science Fiction",129394835
-The Butterfly Effect,2004-01-17,113,"Science Fiction, Thriller",96060858
-The Polar Express,2004-11-10,100,"Animation, Adventure, Family, Fantasy",310634054
-Cradle 2 the Grave,2003-02-28,101,"Action, Crime, Drama",56489558
-The Italian Job,2003-05-30,110,"Action, Crime",176070171
-Black Hawk Down,2001-12-28,145,"Action, History, War",172989651
-The Recruit,2003-01-31,115,"Action, Thriller",101191884
-Bride & Prejudice,2004-02-11,111,"Drama, Comedy, Romance",0
-Queen of the Damned,2002-02-10,101,"Drama, Fantasy, Horror",45479110
-The Bourne Identity,2002-06-14,119,"Action, Drama, Mystery, Thriller",214034224
-Cheaper by the Dozen,2022-03-18,107,"Family, Comedy",0
-Shark Tale,2004-09-20,90,"Animation, Action, Comedy, Family",367275019
-Sky Captain and the World of Tomorrow,2004-09-17,107,"Mystery, Action, Thriller, Science Fiction, Adventure",57958696
-Daredevil,2003-02-14,103,"Fantasy, Action",179179718
-Lilo & Stitch,2002-06-21,85,"Animation, Family",273144151
-Bend It Like Beckham,2002-04-11,112,"Comedy, Drama, Romance",76578641
-Dodgeball: A True Underdog Story,2004-06-18,92,Comedy,167722310
-Changing Lanes,2002-04-07,99,"Thriller, Action, Drama",94935764
-Spider-Man 2,2004-06-25,127,"Action, Adventure, Fantasy",788976453
-Jeepers Creepers 2,2003-08-08,104,Horror,63102666
-Man on Fire,2004-04-23,146,"Action, Drama, Thriller",130293714
-The Lord of the Rings: The Two Towers,2002-12-18,179,"Adventure, Fantasy, Action",926287400
-Open Water,2003-10-26,79,"Drama, Thriller, Horror",54667954
-Star Wars: Episode II - Attack of the Clones,2002-05-15,142,"Adventure, Action, Science Fiction",649398328
-The Terminal,2004-06-17,128,"Comedy, Drama",219417255
-Just Married,2003-01-08,95,"Comedy, Romance",101564935
-The Lord of the Rings: The Fellowship of the Ring,2001-12-18,179,"Adventure, Fantasy, Action",871368364
-We Were Soldiers,2002-03-01,138,"Action, History, War",114660784
-The Santa Clause 2,2002-10-31,104,"Fantasy, Comedy, Family",172842355
-Collateral,2004-08-04,120,"Drama, Crime, Thriller",220239925
-Bridget Jones: The Edge of Reason,2004-11-10,108,"Comedy, Romance",262500000
-Ocean's Twelve,2004-12-09,125,"Thriller, Crime",362744280
-The Texas Chainsaw Massacre,2003-05-21,98,Horror,107363905
-Kill Bill: Vol. 2,2004-04-16,136,"Action, Crime, Thriller",152159461
-S.W.A.T.,2003-08-08,117,"Action, Thriller, Crime",207725639
-Shrek 2,2004-05-19,93,"Animation, Family, Comedy, Fantasy, Adventure",928760770
-Anger Management,2003-04-11,106,Comedy,195745823
-Something's Gotta Give,2003-12-12,128,"Drama, Comedy, Romance",266728738
-Minority Report,2002-06-20,145,"Action, Thriller, Science Fiction, Mystery",358372926
-The Grudge,2019-12-31,93,"Horror, Mystery",42800000
-Barbershop,2002-04-01,102,"Comedy, Drama",77063924
-Ice Age,2002-03-10,81,"Animation, Comedy, Family, Adventure",383257136
-Bruce Almighty,2003-05-23,101,"Fantasy, Comedy",484592874
-Vanilla Sky,2001-12-10,136,"Mystery, Science Fiction, Romance, Fantasy, Thriller, Drama",203388341
-A Series of Unfortunate Events,2004-12-16,108,"Adventure, Comedy, Family",209073645
-Dickie Roberts: Former Child Star,2003-09-04,98,Comedy,0
-The Matrix Reloaded,2003-05-15,138,"Adventure, Action, Thriller, Science Fiction",738599701
-Swimfan,2002-09-06,84,"Thriller, Mystery",34411240
-The Guru,2002-08-21,91,"Comedy, Romance",0
-The Matrix Revolutions,2003-11-05,129,"Adventure, Action, Thriller, Science Fiction",424988211
-Die Another Day,2002-11-17,133,"Adventure, Action, Thriller",431971116
-Alien vs. Predator,2004-08-12,101,"Adventure, Science Fiction, Action, Horror",177427090
-John Q,2002-02-15,116,"Drama, Thriller, Crime",102244770
-50 First Dates,2004-02-13,99,"Comedy, Romance",196482882
-Along Came Polly,2004-01-16,90,"Comedy, Romance",178311729
-Fahrenheit 9/11,2004-06-25,123,Documentary,222446882
-How to Lose a Guy in 10 Days,2003-02-07,116,"Comedy, Romance",177502387
-Meet the Fockers,2004-12-22,115,"Comedy, Romance",516642939
-Troy,2004-05-13,163,"Adventure, History, War, Action",497409852
-Love Actually,2003-09-07,135,"Comedy, Romance, Drama",247933248
-About a Boy,2002-04-26,101,"Drama, Comedy, Romance",129000000
-Road to Perdition,2002-07-12,117,"Crime, Drama, Thriller",181001478
-The Day After Tomorrow,2004-05-26,124,"Action, Adventure, Science Fiction, Thriller",552639571
-The Lord of the Rings: The Return of the King,2003-12-01,201,"Adventure, Fantasy, Action",1118888979
-Mean Girls,2004-04-30,97,Comedy,130126277
-American Wedding,2003-08-01,103,"Comedy, Romance",231449203
-Freddy vs. Jason,2003-08-15,97,Horror,116643421
-"Monsters, Inc.",2001-11-01,92,"Animation, Comedy, Family",579707738
-The Passion of the Christ,2004-02-25,127,Drama,611900000
-Maid in Manhattan,2002-12-13,105,"Comedy, Drama, Romance",154906693
-The Ring,2002-10-18,115,"Horror, Mystery",249348933
-Hero,1992-10-02,117,"Comedy, Drama",0
-2 Fast 2 Furious,2003-06-05,108,"Action, Crime, Thriller",236350661
-Once Upon a Time in Mexico,2003-09-11,102,"Action, Drama, Mystery",98185582
-Blade II,2002-03-22,117,"Fantasy, Horror, Action, Thriller",155010032
-Collateral Damage,2002-02-06,108,"Action, Thriller, Drama",78382433
-Hulk,2003-06-19,138,"Science Fiction, Adventure, Action",245360480
-Catch Me If You Can,2002-12-16,141,"Drama, Crime",352114312
-Head of State,2003-03-28,95,Comedy,37788228
-Van Helsing,2004-05-03,132,"Horror, Adventure, Action",300257475
-Underworld,2003-09-19,122,"Fantasy, Action, Thriller",95708457
-The Bourne Supremacy,2004-07-23,108,"Action, Drama, Thriller",288500217
-Johnny English,2003-03-14,88,"Adventure, Action, Comedy",160583018
-Bringing Down the House,2003-03-07,105,"Comedy, Drama",132675402
-Hellboy,2004-04-02,122,"Fantasy, Action",99318987
-Insomnia,2002-05-24,118,"Thriller, Crime",113714830
-28 Days Later,2002-10-31,113,"Horror, Thriller, Science Fiction",85720385
-Dawn of the Dead,2004-03-19,101,"Horror, Action",102278712
-School of Rock,2003-10-03,110,"Comedy, Music",131095990
-Mona Lisa Smile,2003-12-19,117,"Drama, History, Romance",0
-Darkness Falls,2003-01-24,86,"Thriller, Horror",0
-Kangaroo Jack,2003-01-17,89,"Action, Adventure, Comedy, Family, Crime",0
-Scooby-Doo 2: Monsters Unleashed,2004-03-24,93,"Mystery, Fantasy, Adventure, Comedy",181466833
-Exorcist: The Beginning,2004-08-20,114,"Horror, Mystery, Thriller",78000586
-Signs,2002-08-02,106,"Drama, Thriller, Science Fiction, Mystery",408247917
-Identity,2003-04-25,90,"Mystery, Thriller",90259536
-Phone Booth,2003-04-04,81,Thriller,97837138
-The Rundown,2003-09-26,104,"Adventure, Action, Comedy, Thriller",80916492
-Scooby-Doo,2002-06-14,88,"Mystery, Adventure, Comedy",275650703
-National Treasure,2004-11-19,131,"Adventure, Action, Thriller, Mystery",347512318
+Calendar Girls,2003-09-02,108,"Drama, Comedy",96542059
 Austin Powers in Goldmember,2002-07-26,93,"Comedy, Crime, Science Fiction",296938801
-Sweet Home Alabama,2002-09-26,108,"Comedy, Romance",180622424
-Finding Nemo,2003-05-30,100,"Animation, Family",940335536
-Red Dragon,2002-10-02,124,"Crime, Thriller, Horror",209196298
-Ali G Indahouse,2002-03-21,85,Comedy,25900000
-Spider-Man,2023-05-31,140,"Animation, Action, Adventure",683241751
-Kill Bill: Vol. 1,2003-10-10,111,"Action, Crime",180906076
-8 Mile,2002-11-08,111,"Drama, Music",242875078
-Scary Movie 3,2003-10-24,84,Comedy,220673217
-Panic Room,2002-03-29,111,"Crime, Drama, Thriller",197079546
-The Time Machine,2002-03-04,96,"Science Fiction, Adventure, Action",123729176
-Ocean's Eleven,2001-12-07,116,"Thriller, Crime",450717150
-Charlie's Angels: Full Throttle,2003-06-27,106,"Action, Adventure, Comedy",259175788
+Hero,1992-10-02,117,"Comedy, Drama",0
+Jackass: The Movie,2002-10-25,88,"Comedy, Documentary",64282312
+Beauty and the Beast,1991-10-22,84,"Romance, Family, Animation, Fantasy",424967620
+Men in Black: International,2019-06-12,115,"Comedy, Science Fiction, Action",253890701
+Snow White and the Huntsman,2012-05-30,127,"Adventure, Fantasy, Drama",396600000
+Joker,2019-10-01,122,"Crime, Thriller, Drama",1074458282
+Boo! A Madea Halloween,2016-10-21,103,"Comedy, Horror",74827344
+The Bourne Legacy,2012-08-08,135,"Action, Thriller",276572938
+The Terminal,2004-06-17,128,"Comedy, Drama",219417255
+Magic Mike's Last Dance,2023-02-09,112,"Comedy, Drama, Romance",52000000
+Furious 7,2015-04-01,137,"Action, Thriller, Crime",1515341399
+The Brave One,2007-09-12,122,"Crime, Drama, Thriller",69766619
+RocknRolla,2008-09-04,114,"Action, Crime, Thriller",25740863
+Megamind,2010-10-28,96,"Animation, Action, Comedy, Family, Science Fiction",321885765
+F9: The Fast Saga,2021-05-19,143,"Action, Adventure, Crime",726229501
+Monster Hunter,2020-12-03,104,"Action, Fantasy, Adventure",42145959
+Pirates of the Caribbean: At World's End,2007-05-19,169,"Adventure, Fantasy, Action",961000000
+The Curse of La Llorona,2019-04-17,93,"Horror, Mystery, Thriller",122033739
+Little Women,2019-12-25,135,"Drama, Romance",216601214
+Up,2009-05-28,96,"Animation, Comedy, Family, Adventure",735099082
+Bridget Jones: The Edge of Reason,2004-11-10,108,"Comedy, Romance",262500000
+I Am Legend,2007-12-12,101,"Drama, Science Fiction, Thriller",585410052
+Assassin's Creed,2016-12-21,116,"Action, Adventure, Science Fiction",240697856
+Nope,2022-07-20,130,"Horror, Science Fiction, Mystery",170823080
+Nanny McPhee,2005-10-21,97,"Fantasy, Comedy, Family",123276807
+Non-Stop,2014-02-26,106,"Action, Thriller, Mystery",222809600
+Madagascar: Escape 2 Africa,2008-10-30,89,"Family, Adventure, Animation, Comedy",603900354
+Maze Runner: The Death Cure,2018-01-10,143,"Science Fiction, Action, Adventure, Thriller",288175335
+Blade II,2002-03-22,117,"Fantasy, Horror, Action, Thriller",155010032
+Battleship,2012-04-11,131,"Thriller, Action, Adventure, Science Fiction",303025485
+You Got Served,2004-01-30,95,"Music, Drama",0
+The Hangover Part III,2013-05-23,100,Comedy,362000072
+Cloverfield,2008-01-15,85,"Action, Thriller, Science Fiction",170764026
+The Hobbit: The Battle of the Five Armies,2014-12-10,144,"Action, Adventure, Fantasy",956019788
+Once Upon a Time in Hollywood,2019-07-24,162,"Comedy, Drama, Thriller",374251247
+The Pursuit of Happyness,2006-12-14,117,Drama,307077295
+Once Upon a Time in Mexico,2003-09-11,102,"Action, Drama, Mystery",98185582
+The Covenant,2006-09-08,97,"Fantasy, Horror, Adventure, Action",37597471
+StreetDance 2,2012-03-30,85,"Music, Romance, Drama",0
+White Noise,2005-01-07,101,"Drama, Horror, Thriller",91196419
+Scream,1996-12-20,112,"Crime, Horror, Mystery",173046663
+Godzilla vs. Kong,2021-03-24,114,"Action, Science Fiction, Thriller",470116094
+Contraband,2012-01-12,109,"Thriller, Action, Drama, Crime",96262212
+Cowboys & Aliens,2011-07-29,119,"Action, Science Fiction, Thriller, Western",174822325
+Zathura: A Space Adventure,2005-11-06,101,"Science Fiction, Adventure, Family",65079104
+Unknown,2011-02-16,113,"Action, Mystery, Thriller",130786397
+The Twilight Saga: New Moon,2009-11-18,131,"Adventure, Fantasy, Drama, Romance",709827462
+Gravity,2013-10-03,91,"Science Fiction, Thriller, Drama",723192705
+Happy Death Day,2017-10-12,97,"Horror, Mystery, Comedy",125479266
+Fast & Furious 6,2013-05-21,131,"Action, Thriller, Crime",788680968
+Mary Poppins Returns,2018-12-13,131,"Fantasy, Family, Comedy",348807090
+Blades of Glory,2007-03-30,93,Comedy,118200000
+The Incredible Hulk,2008-06-12,114,"Science Fiction, Action, Adventure",163712074
+Superbad,2007-03-20,113,Comedy,170812526
+The Theory of Everything,2014-11-26,123,"Drama, Romance",123726688
+Ant-Man,2015-07-14,117,"Science Fiction, Action, Adventure",519311965
+Aliens vs. Predator: Requiem,2007-12-25,94,"Fantasy, Action, Science Fiction, Thriller, Horror",130290885
+Puss in Boots,2011-10-27,90,"Animation, Family, Fantasy, Adventure, Comedy",554987477
+The Butler,2013-08-16,132,Drama,115922175
+Dragon Ball Super: Super Hero,2022-06-11,99,"Animation, Science Fiction, Action",86562140
+Bad Boys for Life,2020-01-15,124,"Thriller, Action, Crime",426505244
+The Grey,2012-01-26,117,"Drama, Thriller, Action, Adventure",77278331
+The Meg,2018-08-09,113,"Action, Science Fiction, Horror",530517320
+The Hobbit: An Unexpected Journey,2012-12-12,169,"Adventure, Fantasy, Action",1021103568
+Warm Bodies,2013-01-31,97,"Horror, Comedy, Romance",116980662
+G.I. Joe: Retaliation,2013-03-27,110,"Science Fiction, Adventure, Action, Thriller",371876278
+Pirates of the Caribbean: On Stranger Tides,2011-05-15,137,"Adventure, Action, Fantasy",1045713802
+Pacific Rim: Uprising,2018-03-21,111,"Action, Fantasy, Science Fiction, Adventure",290061297
+The Inbetweeners 2,2014-08-06,96,Comedy,0
+District 9,2009-08-05,112,Science Fiction,210819611
+The Longest Yard,2005-05-27,113,Comedy,190320568
+Mr. & Mrs. Smith,2005-06-07,120,"Action, Comedy, Drama, Thriller",487287646
+Star Wars: Episode VII - The Force Awakens,2015-12-15,136,"Adventure, Action, Science Fiction",2068223624
+Ghostbusters: Afterlife,2021-11-11,124,"Fantasy, Comedy, Adventure",191000000
+Brüno,2009-07-08,83,Comedy,138805831
+Swimfan,2002-09-06,84,"Thriller, Mystery",34411240
+About Time,2013-09-04,123,"Drama, Romance, Fantasy",87100449
+Daddy's Home 2,2017-11-09,100,Comedy,180613180
+A Nightmare on Elm Street,1984-11-09,91,Horror,57000000
+Mr. Bean's Holiday,2007-03-22,90,"Family, Comedy",232225908
+The Girl on the Train,2016-10-05,112,"Thriller, Mystery, Drama, Crime",173185859
+Prisoners,2013-09-19,153,"Drama, Thriller, Crime",122126687
+Captain Marvel,2019-03-06,124,"Action, Adventure, Science Fiction",1131416446
+3:10 to Yuma,2007-09-06,122,Western,70016220
+Hancock,2008-07-01,92,"Fantasy, Action",629443428
+Monsters vs. Aliens,2009-03-19,94,"Animation, Family, Adventure, Science Fiction",381509870
+The Inbetweeners,2011-08-19,97,Comedy,88823111
+Horton Hears a Who!,2008-03-03,86,"Animation, Comedy, Family, Adventure, Fantasy",298572799
+Dawn of the Planet of the Apes,2014-06-26,130,"Science Fiction, Action, Drama, Thriller",710644566
+Mamma Mia! Here We Go Again,2018-07-09,113,"Comedy, Romance",395044706
+Boogeyman,2005-02-04,89,"Thriller, Horror, Drama, Mystery",67192859
+Kingsman: The Golden Circle,2017-09-20,141,"Action, Adventure, Comedy",410902662
+A Quiet Place Part II,2021-05-21,97,"Science Fiction, Thriller, Horror",297400000
+Doctor Strange in the Multiverse of Madness,2022-05-04,126,"Fantasy, Action, Adventure",955775804
+The Expendables 2,2012-08-08,103,"Action, Adventure, Thriller",314975955
+Paddington 2,2017-11-09,104,"Adventure, Comedy, Family",227300000
+Pirates of the Caribbean: Dead Man's Chest,2006-07-06,151,"Adventure, Fantasy, Action",1065659812
+Get Smart,2008-06-19,110,"Action, Comedy, Thriller",230685453
+The Dark Knight Rises,2012-07-17,165,"Action, Crime, Drama, Thriller",1081041287
+Sing,2016-11-23,108,"Animation, Comedy, Family, Music",634151679
+Norbit,2007-02-08,102,Comedy,159814490
+Hostel,2006-01-06,94,Horror,81979826
+Jeepers Creepers 2,2003-08-08,104,Horror,63102666
+Superman Returns,2006-06-28,154,"Science Fiction, Action, Adventure",391081192
+Identity Thief,2013-02-07,111,"Comedy, Crime",173965010
+Gran Torino,2008-12-12,116,Drama,269958228
+The Wolf of Wall Street,2013-12-25,180,"Crime, Drama, Comedy",392000000
+The Recruit,2003-01-31,115,"Action, Thriller",101191884
+300,2007-03-07,117,"Action, Adventure, War",456082343
+Alan Partridge,2013-07-24,90,Comedy,9800000
+The Fog,1980-02-08,89,"Horror, Mystery, Thriller",21448830
+TRON: Legacy,2010-12-14,125,"Adventure, Action, Science Fiction",400062763
+Abominable,2019-09-19,97,"Family, Animation, Adventure, Comedy",190304772
+Deadpool 2,2018-05-10,120,"Action, Comedy, Adventure",785896609
+West Side Story,1961-12-13,151,"Crime, Drama, Romance",43656822
+Inception,2010-07-15,148,"Action, Science Fiction, Adventure",825532764
+Mona Lisa Smile,2003-12-19,117,"Drama, History, Romance",0
+Tomorrowland,2015-05-19,130,"Adventure, Family, Mystery, Science Fiction",209154322
+The Amityville Horror,2005-04-14,90,Horror,108100000
+Sonic the Hedgehog,2020-02-12,99,"Action, Science Fiction, Comedy, Family",319715683
+Takers,2010-08-26,107,"Action, Crime, Drama, Thriller",80205382
+The Roommate,2011-02-04,91,"Thriller, Drama, Horror",52545707
+Yes Man,2008-12-09,104,"Comedy, Romance",223241637
+New Year's Eve,2011-12-08,118,"Comedy, Romance",142044638
+Need for Speed,2014-03-12,132,"Action, Crime, Drama, Thriller",203277636
+Killers,2010-06-04,100,"Action, Comedy, Thriller, Romance",98159963
+The Hunger Games: Mockingjay - Part 2,2015-11-18,137,"Action, Adventure, Science Fiction",653428261
+Jackass Presents: Bad Grandpa,2013-10-22,92,Comedy,151831537
+Annabelle: Creation,2017-08-03,110,"Horror, Mystery, Thriller",306515884
+It Chapter Two,2019-09-04,169,"Horror, Fantasy",473122525
+The Greatest Showman,2017-12-20,105,Drama,432844677
+Dune,2021-09-15,155,"Science Fiction, Adventure",402027830
+Scooby-Doo 2: Monsters Unleashed,2004-03-24,93,"Mystery, Fantasy, Adventure, Comedy",181466833
+Skyfall,2012-10-24,143,"Action, Adventure, Thriller",1142471295
+Robin Hood,2018-11-21,116,"Adventure, Action, Thriller",86493046
+Harry Potter and the Goblet of Fire,2005-11-16,157,"Adventure, Fantasy",895921036
+Sausage Party,2016-07-11,89,"Adventure, Animation, Comedy, Fantasy",140705322
+Grown Ups,2010-06-24,102,Comedy,271430189
+Avengers: Infinity War,2018-04-25,149,"Adventure, Action, Science Fiction",2052415039
+Despicable Me 3,2017-06-15,90,"Action, Animation, Comedy, Family, Adventure",1031552585
+The Lego Batman Movie,2017-02-08,104,"Animation, Action, Comedy, Family",311950384
+Spider-Man: Homecoming,2017-07-05,133,"Action, Adventure, Science Fiction, Drama",880166924
+The Equalizer 2,2018-07-19,121,"Action, Thriller, Crime",190400157
+Straight Outta Compton,2015-08-11,147,"Drama, Music, History",201634991
+The Bourne Identity,2002-06-14,119,"Action, Drama, Mystery, Thriller",214034224
+Maleficent,2014-05-28,97,"Fantasy, Adventure, Action, Family, Romance",758539785
+The War with Grandpa,2020-08-27,98,"Comedy, Family",43387445
+Encanto,2021-10-13,102,"Animation, Comedy, Family, Fantasy",253000000
+Pixels,2015-07-16,105,"Action, Comedy, Science Fiction",244874809
+Don't Breathe,2016-06-08,89,"Thriller, Horror",159047649
+Quantum of Solace,2008-10-29,106,"Adventure, Action, Thriller, Crime",589580482
+Ice Age: Collision Course,2016-06-23,95,"Adventure, Animation, Family, Comedy",408579038
 Harry Potter and the Chamber of Secrets,2002-11-13,161,"Adventure, Fantasy",876688482
-Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,143,"Adventure, Fantasy, Action",655011224
-xXx,2002-08-09,124,"Action, Adventure, Thriller",277448382
-Starsky & Hutch,2004-03-05,101,"Comedy, Crime",170268750
-Elf,2003-10-09,97,"Comedy, Family, Fantasy",225097437
+50 First Dates,2004-02-13,99,"Comedy, Romance",196482882
+Fool's Gold,2008-02-07,112,"Adventure, Romance, Comedy",111231041
+Transformers: Rise of the Beasts,2023-06-06,127,"Action, Adventure, Science Fiction",429800000
+Suicide Squad,2016-08-03,123,"Action, Adventure, Fantasy",746846894
+The Scorpion King,2002-04-18,92,"Action, Adventure, Fantasy",165333180
+High School Musical 3: Senior Year,2008-10-11,117,"Comedy, Romance, Drama, Family, Music",252909177
+Star Trek,2009-05-06,127,"Science Fiction, Action, Adventure",385680446
+Looper,2012-09-26,118,"Action, Thriller, Science Fiction",47042000
+Inglourious Basterds,2009-08-19,153,"Drama, Thriller, War",321457747
+Date Night,2010-04-08,97,"Comedy, Action, Adventure",152263880
+The House with a Clock in Its Walls,2018-09-15,105,"Fantasy, Family, Comedy",131523093
+Prometheus,2012-05-30,124,"Science Fiction, Adventure, Mystery",403354469
+2 Fast 2 Furious,2003-06-05,108,"Action, Crime, Thriller",236350661
+Home Alone,2021-11-12,93,"Comedy, Crime, Family",0
+The Grudge,2019-12-31,93,"Horror, Mystery",42800000
+Mission: Impossible - Fallout,2018-07-13,147,"Action, Adventure",791657398
 The Sum of All Fears,2002-05-31,124,"Thriller, Action, Drama",193921372
+Funny People,2009-07-30,146,"Comedy, Drama",71585235
+The Cat in the Hat,2003-11-21,81,"Comedy, Adventure, Family, Fantasy",133800000
+The Angry Birds Movie,2016-05-11,97,"Animation, Adventure, Comedy, Family",349779543
+Rush,2013-09-02,123,"Drama, Action",90247624
+Bend It Like Beckham,2002-04-11,112,"Comedy, Drama, Romance",76578641
+The Dukes of Hazzard,2005-08-05,104,"Comedy, Adventure, Action",110803676
+San Andreas,2015-05-27,114,"Action, Drama, Thriller",473990832
+G.I. Joe: The Rise of Cobra,2009-08-03,118,"Adventure, Action, Thriller, Science Fiction",302469017
+Collateral Damage,2002-02-06,108,"Action, Thriller, Drama",78382433
+The Divergent Series: Insurgent,2015-03-18,119,"Action, Adventure, Science Fiction, Thriller",297002527
+Good Boys,2019-08-14,89,Comedy,111037232
+Sex and the City 2,2010-05-26,146,"Comedy, Drama, Romance",290745055
+Christopher Robin,2018-08-02,104,"Adventure, Comedy, Family, Fantasy",99138899
+Night at the Museum: Battle of the Smithsonian,2009-05-20,105,"Adventure, Fantasy, Action, Comedy, Family",413106170
+Ride Along,2014-01-07,99,"Action, Comedy",153997819
+Raya and the Last Dragon,2021-03-03,107,"Animation, Family, Fantasy, Action, Adventure",130423032
+Fantastic Four: Rise of the Silver Surfer,2007-06-13,92,"Adventure, Fantasy, Action, Thriller",301913131
+8 Mile,2002-11-08,111,"Drama, Music",242875078
+Downton Abbey,2019-09-12,122,"Drama, Romance, History",192199131
+Elemental,2023-06-14,102,"Animation, Comedy, Family, Fantasy, Romance",490797988
+Captain America: Civil War,2016-04-27,147,"Adventure, Action, Science Fiction",1155046416
+Pokémon: Detective Pikachu,2019-05-03,105,"Action, Adventure, Fantasy",449762638
+Taken 2,2012-09-27,91,"Action, Crime, Thriller",376141306
+Old,2021-07-21,108,"Thriller, Mystery, Horror",90146510
+Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,143,"Adventure, Fantasy, Action",655011224
+The Lego Movie 2: The Second Part,2019-02-06,106,"Action, Adventure, Animation, Comedy, Family",199603202
+Despicable Me 2,2013-06-26,98,"Animation, Comedy, Family",970761885
+How to Lose Friends & Alienate People,2008-10-02,110,"Comedy, Romance, Drama",17286299
+Barbershop,2002-04-01,102,"Comedy, Drama",77063924
+Jurassic World: Fallen Kingdom,2018-06-22,129,"Action, Adventure, Science Fiction, Thriller",1310466296
+Star Wars: Episode IX - The Rise of Skywalker,2019-12-18,142,"Adventure, Action, Science Fiction",1074144248
+The Grudge 2,2023-08-08,55,"Action, Adventure, Fantasy, Animation",0
+Finding Nemo,2003-05-30,100,"Animation, Family",940335536
+Inside Man,2006-03-17,129,"Crime, Drama, Thriller",186003591
+Ghostbusters,2016-07-14,117,"Action, Fantasy, Comedy",229147509
+Run Fatboy Run,2007-09-06,100,"Comedy, Romance",33478921
+Fun with Dick and Jane,2005-12-21,90,Comedy,202026112
+Bringing Down the House,2003-03-07,105,"Comedy, Drama",132675402
+Titanic,1997-11-18,194,"Drama, Romance",2264162353
+Happy Feet,2006-11-16,108,"Animation, Comedy, Family",384335608
+Madagascar,2005-05-25,86,"Family, Animation, Adventure, Comedy",542063846
+Guardians of the Galaxy Vol. 2,2017-04-19,137,"Science Fiction, Adventure, Action",863756051
+Vantage Point,2008-02-01,90,"Drama, Action, Thriller, Crime",152039882
+Wrath of Man,2021-04-22,119,"Crime, Thriller, Action",103966489
+Texas Chainsaw,2003-05-21,98,Horror,107363905
+Argo,2012-10-11,120,"Drama, Thriller",232325503
+Failure to Launch,2006-03-10,97,"Comedy, Romance",130224158
+The Twilight Saga: Eclipse,2010-06-23,124,"Adventure, Fantasy, Drama, Romance",698491347
+The Tax Collector,2020-08-07,95,"Action, Crime, Drama",942666
+Noah,2014-03-07,138,"Drama, Adventure",362600000
+Silent Hill,2006-04-21,125,"Horror, Mystery",100605135
+The Grinch,2018-11-08,85,"Animation, Family, Comedy, Fantasy",508575295
+Limitless,2011-03-08,105,"Thriller, Mystery, Science Fiction",161849455
+Underworld: Evolution,2006-01-12,106,"Fantasy, Action, Thriller",111476513
+Becky,2020-07-23,93,"Thriller, Horror, Action",1045873
+A Christmas Carol,2008-11-03,76,"Animation, Family",4496912
+Act of Valor,2012-02-24,110,"Action, Thriller, War",82499399
+Gran Turismo,2023-08-09,135,"Adventure, Action, Drama",114800000
+"You, Me and Dupree",2006-07-13,108,"Comedy, Romance",130628903
+The Amazing Spider-Man 2,2014-04-16,141,"Action, Adventure, Fantasy",708962323
+Ouija,2014-10-24,89,Horror,103590271
+Resident Evil: Extinction,2007-09-20,94,"Horror, Action, Science Fiction",148412065
+Charlie's Angels: Full Throttle,2003-06-27,106,"Action, Adventure, Comedy",259175788
+This Is It,2009-10-28,111,"Music, Documentary",261200000
+The Martian,2015-09-30,141,"Drama, Adventure, Science Fiction",630600000
+The Little Things,2021-01-28,128,"Crime, Drama, Thriller",29942746
+The Best Exotic Marigold Hotel,2012-02-23,124,"Drama, Comedy",136836156
+Captain America: The Winter Soldier,2014-03-20,136,"Action, Adventure, Science Fiction",714766572
+Shazam!,2019-03-29,132,"Action, Comedy, Fantasy",366080049
+30 Days of Night,2007-10-17,113,"Horror, Thriller",75505973
+The Santa Clause 2,2002-10-31,104,"Fantasy, Comedy, Family",172842355
+Hotel Transylvania,2012-09-20,91,"Animation, Comedy, Family, Fantasy",358375603
+The Little Mermaid,2023-05-18,135,"Adventure, Family, Fantasy, Romance",569244557
+He's Just Not That Into You,2009-02-06,129,"Comedy, Romance, Drama",178866158
+Get Out,2017-02-24,104,"Mystery, Thriller, Horror",255407969
+The Lego Movie,2014-02-06,100,"Animation, Family, Adventure, Comedy, Fantasy",469160692
+Interstellar,2014-11-05,169,"Adventure, Drama, Science Fiction",701729206
+Black Panther: Wakanda Forever,2022-11-09,162,"Action, Adventure, Science Fiction",859102154
+Semi-Pro,2008-02-28,91,Comedy,33472850
+We Were Soldiers,2002-03-01,138,"Action, History, War",114660784
+Focus,2015-02-25,105,"Romance, Comedy, Crime",153962963
+Tenet,2020-08-22,150,"Action, Thriller, Science Fiction",365304105
+Jumanji: The Next Level,2019-12-04,123,"Adventure, Comedy, Fantasy",801693929
+American Hustle,2013-12-03,138,"Drama, Crime",251171807
+Stomp the Yard,2007-05-16,114,"Drama, Music",75511123
+Miami Vice,2006-07-27,132,"Action, Crime, Thriller",163794509
+How to Train Your Dragon,2010-03-18,98,"Fantasy, Adventure, Animation, Family",494879471
+Borat,2020-10-23,96,Comedy,0
+The Adventures of Tintin,2011-10-24,107,"Adventure, Animation, Mystery",373993951
+Two by Two: Overboard!,2020-09-24,85,"Animation, Adventure, Comedy, Family",0
+Next,2007-04-25,96,"Action, Science Fiction, Thriller",76066841
+The Equalizer,2014-09-24,132,"Thriller, Action, Crime",192330738
+The Ring,2002-10-18,115,"Horror, Mystery",249348933
+I Now Pronounce You Chuck & Larry,2007-07-12,115,"Comedy, Romance",187134117
+Madea's Family Reunion,2006-02-24,110,"Drama, Comedy, Romance",57231524
+The Departed,2006-10-04,151,"Drama, Thriller, Crime",291465000
+Goosebumps,2015-08-05,103,"Adventure, Horror, Comedy",158162788
+Bridesmaids,2011-05-13,125,"Comedy, Romance",288383523
+Maleficent: Mistress of Evil,2019-10-16,119,"Family, Fantasy, Adventure, Action",491730089
+Prom Night,1980-07-18,92,"Horror, Mystery, Thriller",14796236
+The Upside,2019-01-10,126,"Comedy, Drama",125000000
+The Pacifier,2005-03-04,95,"Comedy, Family, Action",198636868
+Man of Steel,2013-06-12,143,"Action, Adventure, Science Fiction",668045518
+Kick-Ass,2010-03-22,117,"Action, Crime",96188903
+Robots,2005-03-10,91,"Animation, Comedy, Family, Science Fiction",262511490
+Van Helsing,2004-05-03,132,"Horror, Adventure, Action",300257475
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016-06-01,112,"Action, Adventure, Comedy, Family, Science Fiction",245623848
+Split,2017-01-19,117,"Horror, Thriller",278454358
+Spider-Man 2,2004-06-25,127,"Action, Adventure, Fantasy",788976453
+The 40-Year-Old Virgin,2005-08-11,116,"Comedy, Romance",177378645
+Riddick,2013-09-02,119,"Science Fiction, Action, Thriller",98337295
+Avengers: Age of Ultron,2015-04-22,141,"Action, Adventure, Science Fiction",1405403694
+The SpongeBob Movie: Sponge on the Run,2020-08-14,95,"Family, Animation, Fantasy, Adventure, Comedy",4700000
+John Wick: Chapter 3 - Parabellum,2019-05-15,131,"Action, Thriller, Crime",326709727
+The Possession,2012-08-30,92,"Horror, Thriller",85446075
+The Hangover,2009-06-02,100,Comedy,469310836
+Men in Black II,2002-07-03,88,"Action, Adventure, Comedy, Science Fiction",445135288
+The Avengers,2012-04-25,143,"Science Fiction, Action, Adventure",1518815515
+Where the Wild Things Are,2009-10-16,101,"Family, Fantasy, Drama, Adventure",100140916
+The Golden Compass,2007-12-04,113,"Adventure, Fantasy",372234864
+Brave,2012-06-21,93,"Animation, Adventure, Comedy, Family, Action, Fantasy",538983207
+Monsters University,2013-06-19,104,"Animation, Family",743559607
+300: Rise of an Empire,2014-03-05,102,"Action, Drama, War",337580051
+Four Christmases,2008-11-26,88,"Comedy, Romance, Drama",164112721
+Miss Peregrine's Home for Peculiar Children,2016-09-27,127,"Fantasy, Adventure",296482446
+Shutter Island,2010-02-14,138,"Drama, Thriller, Mystery",294800000
+"Monsters, Inc.",2001-11-01,92,"Animation, Comedy, Family",579707738
+Battle Los Angeles,2011-03-08,116,"Science Fiction, Action",211819354
+The Exorcist: Believer,2023-10-04,111,Horror,120700000
+Rise of the Planet of the Apes,2011-08-03,105,"Thriller, Action, Drama, Science Fiction",482860185
+The Final Destination,2009-08-26,82,"Horror, Mystery",186167139
+Terminator 3: Rise of the Machines,2003-07-02,109,"Action, Thriller, Science Fiction",435000000
+Nanny McPhee Returns,2010-03-26,109,"Comedy, Fantasy, Family",93251121
+Exorcist: The Beginning,2004-08-20,114,"Horror, Mystery, Thriller",78000586
+Men in Black 3,2012-05-23,106,"Action, Comedy, Science Fiction",624026776
+Stan & Ollie,2018-12-28,98,"Comedy, Drama",24420923
+The Heartbreak Kid,2007-10-05,116,"Comedy, Romance",128453183
+Insidious: The Red Door,2023-07-05,107,"Horror, Mystery, Thriller",185582093
+Star Trek Beyond,2016-07-07,122,"Action, Adventure, Science Fiction",343471816
+Jarhead,2005-11-04,123,"Drama, War",97076152
+The Hangover Part II,2011-05-25,102,Comedy,586764305
+Star Wars: Episode VIII - The Last Jedi,2017-12-13,152,"Adventure, Action, Science Fiction",1332698830
+X-Men: The Last Stand,2006-05-24,104,"Adventure, Action, Science Fiction, Thriller",459359555
+Role Models,2008-11-07,99,Comedy,92380927
+The Dictator,2012-05-15,83,Comedy,179379533
+Mission: Impossible III,2006-04-25,126,"Adventure, Action, Thriller",398479497
+Let Him Go,2020-11-05,114,"Drama, Thriller, Crime, Western",7997460
+Ender's Game,2013-10-24,114,"Science Fiction, Action, Adventure",125537191
+Midway,2019-11-06,138,"Action, Drama, War, History, Adventure",127420861
+Harry Potter and the Deathly Hallows: Part 1,2010-11-17,146,"Adventure, Fantasy",954305868
+Die Another Day,2002-11-17,133,"Adventure, Action, Thriller",431971116
+The Omen,1976-06-25,111,"Horror, Thriller",60922980
+The Village,2004-07-30,108,"Drama, Mystery, Thriller",256697520
+Troy,2004-05-13,163,"Adventure, History, War, Action",497409852
+Mamma Mia!,2008-07-03,108,"Comedy, Romance",609841637
+The Prestige,2006-10-19,130,"Drama, Mystery, Science Fiction",109676311
+Hellboy II: The Golden Army,2008-07-11,120,"Fantasy, Adventure, Action",160388063
+Venom,2018-09-28,112,"Science Fiction, Action",856085151
+The Bourne Supremacy,2004-07-23,108,"Action, Drama, Thriller",288500217
+Fantastic Beasts: The Secrets of Dumbledore,2022-04-06,142,"Fantasy, Adventure, Family",406950844
+Man on Fire,2004-04-23,146,"Action, Drama, Thriller",130293714
+Resident Evil: Retribution,2012-09-12,95,"Action, Horror, Science Fiction",240159255
+Neighbors,2014-05-08,97,Comedy,270665134
+Hop,2011-03-30,95,"Animation, Comedy, Family",183953723
+Boo 2! A Madea Halloween,2017-10-20,103,"Horror, Comedy",48333932
+Underworld,2003-09-19,122,"Fantasy, Action, Thriller",95708457
+Resident Evil: Afterlife,2010-09-09,97,"Action, Adventure, Horror, Science Fiction",300228084
+Kung Fu Panda 2,2011-05-25,91,"Animation, Family",665692281
+Spider-Man: Into the Spider-Verse,2018-12-06,117,"Action, Adventure, Animation, Science Fiction",375464627
+Wallace & Gromit: The Curse of the Were-Rabbit,2005-09-04,85,"Adventure, Animation, Comedy, Family",192610372
+Maze Runner: The Scorch Trials,2015-09-09,131,"Science Fiction, Action, Thriller, Adventure",312296056
+Mission: Impossible - Dead Reckoning Part One,2023-07-08,164,"Action, Thriller",567148955
+The Ring Two,2005-03-10,110,"Drama, Horror, Thriller",161451538
+Bruce Almighty,2003-05-23,101,"Fantasy, Comedy",484592874
+No Time to Die,2021-09-29,163,"Action, Thriller, Drama",774153007
+Diary of a Mad Black Woman,2005-02-25,116,"Drama, Romance, Comedy",0
+The Forgotten,2004-09-24,91,"Thriller, Drama, Mystery, Science Fiction",117592831
+21,2008-03-27,123,"Drama, Crime",159808370
+The Hunger Games: Catching Fire,2013-11-15,146,"Adventure, Action, Science Fiction",865011746
+Talladega Nights: The Ballad of Ricky Bobby,2006-08-04,108,Comedy,162966177
+Everest,2015-09-10,121,"Adventure, Drama, History",203427584
+Evil Dead,2013-04-05,91,Horror,97542952
+Moana,2025-06-26,0,"Adventure, Comedy, Family, Fantasy",0
+Spy Kids 3: Game Over,2003-07-25,84,"Action, Adventure, Comedy, Family, Science Fiction",197011982
+Ice Age: The Meltdown,2006-03-29,91,"Animation, Family, Comedy, Adventure",660998756
+Due Date,2010-11-03,95,"Comedy, Drama",211780824
+Hotel Transylvania 2,2015-09-21,89,"Animation, Comedy, Family, Fantasy",473226958
+Kingdom of Heaven,2005-05-03,144,"Drama, Action, Adventure, History, War",218122627
+Dreamgirls,2006-12-25,134,"Drama, Music",154937680
+Wreck-It Ralph,2012-11-01,101,"Family, Animation, Comedy, Adventure",471222889
+Harry Potter and the Deathly Hallows: Part 2,2011-07-12,130,"Fantasy, Adventure",1341511219
+The Sweeney,2012-09-11,112,"Action, Crime",6294161
+Onward,2020-02-29,103,"Family, Animation, Adventure, Comedy, Fantasy",141940042
+Ratatouille,2007-06-28,111,"Animation, Comedy, Family, Fantasy",623726000
+Hidden Figures,2016-12-10,127,"Drama, History",235956898
+Gridiron Gang,2006-09-15,125,"Crime, Drama",41480851
+Tangled,2010-11-24,100,"Animation, Family",592461732
+The Expendables,2010-08-03,103,"Thriller, Adventure, Action",274470394
+Coach Carter,2005-01-14,136,"Drama, History",76669806
+Chicken Little,2005-11-04,81,"Animation, Family, Comedy",314432665
+Warcraft,2016-05-25,123,"Action, Adventure, Fantasy",433677183
+Saw II,2005-10-28,93,Horror,147748505
+Logan,2017-02-28,137,"Action, Drama, Science Fiction",619021436
+Thor,2011-04-21,115,"Adventure, Fantasy, Action",449326618
+Fighting with My Family,2019-02-14,108,Comedy,39055536
+Fury,2014-10-15,135,"War, Drama, Action",211817906
+Meet the Fockers,2004-12-22,115,"Comedy, Romance",516642939
+Night at the Museum,2006-12-20,108,"Action, Adventure, Comedy, Family, Fantasy",574480841
+The Lion King,2019-07-12,118,"Adventure, Drama, Family, Animation",1663075401
+The Bad Guys,2022-03-17,100,"Animation, Action, Adventure, Crime, Comedy, Family",250162278
+Just Married,2003-01-08,95,"Comedy, Romance",101564935
+Kung Fu Panda 3,2016-01-23,95,"Action, Adventure, Animation, Comedy, Family",521170825
+Alien: Covenant,2017-05-09,122,"Science Fiction, Horror, Mystery",240891763
+Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,128,"Adventure, Action, Fantasy",795922298
+The Heat,2013-06-27,117,"Action, Comedy, Crime",158674180
+Fast X,2023-05-17,142,"Action, Crime, Thriller",704709660
+Love Actually,2003-09-07,135,"Comedy, Romance, Drama",247933248
+The Marksman,2021-01-15,108,Action,23076711
+Insomnia,2002-05-24,118,"Thriller, Crime",113714830
+Scream VI,2023-03-08,123,"Horror, Crime, Thriller",168961389
+Sahara,2005-04-06,124,"Action, Adventure, Comedy, Drama, Mystery",119269486
+Ice Age: Continental Drift,2012-06-27,88,"Animation, Comedy, Adventure, Family",877244782
+One Direction: This Is Us,2013-08-29,92,"Documentary, Music",68500000
+Casino Royale,2006-11-14,144,"Adventure, Action, Thriller",599045960
+Jack the Giant Slayer,2013-02-27,114,"Fantasy, Action, Adventure, Family",197687603
+The Conjuring: The Devil Made Me Do It,2021-05-25,111,"Horror, Mystery, Thriller",206431050
+Date Movie,2006-02-17,83,"Comedy, Romance",48548426
+Monster-in-Law,2005-05-13,101,"Romance, Comedy",154749918
+John Q,2002-02-15,116,"Drama, Thriller, Crime",102244770
+The Batman,2022-03-01,177,"Crime, Mystery, Thriller",770945583
+Shark Tale,2004-09-20,90,"Animation, Action, Comedy, Family",367275019
+xXx,2002-08-09,124,"Action, Adventure, Thriller",277448382
+Immortals,2011-11-10,110,"Fantasy, Action, Drama",226904017
+Fast & Furious,2019-08-01,137,"Action, Adventure, Comedy",760098996
+Scooby-Doo,2002-06-14,88,"Mystery, Adventure, Comedy",275650703
+La La Land,2016-11-29,129,"Comedy, Drama, Romance, Music",447407695
+Cars,2006-06-08,117,"Animation, Adventure, Comedy, Family",461983149
+Thor: Ragnarok,2017-10-02,131,"Action, Adventure, Science Fiction",855301806
+The Wretched,2020-03-09,95,"Horror, Mystery, Thriller",3758846
+Kill Bill: Vol. 1,2003-10-10,111,"Action, Crime",180906076
+Fifty Shades Freed,2018-01-17,105,"Drama, Romance",368307760
+Us,2019-03-14,116,"Horror, Thriller, Mystery",256067149
+Arthur Christmas,2011-11-10,97,"Drama, Animation, Family, Comedy",0
+Venom: Let There Be Carnage,2021-09-30,97,"Science Fiction, Action, Adventure",506863592
+Rogue One: A Star Wars Story,2016-12-14,133,"Action, Adventure, Science Fiction",1056057273
+Rio 2,2014-03-19,101,"Animation, Adventure, Comedy, Family",500188435
+Jurassic World Dominion,2022-06-01,147,"Adventure, Action, Science Fiction",1001978080
+Pineapple Express,2008-08-06,111,"Action, Comedy, Crime",101624843
+Identity,2003-04-25,90,"Mystery, Thriller",90259536
+Guardians of the Galaxy Vol. 3,2023-05-03,150,"Science Fiction, Adventure, Action",845430302
+Mission: Impossible - Rogue Nation,2015-07-23,131,"Action, Adventure",682716636
+Barbershop 2: Back in Business,2004-01-20,106,"Comedy, Drama",65070412
+Eternals,2021-11-03,156,"Science Fiction, Action, Adventure",402064899
+Don't Worry Darling,2022-09-21,123,"Thriller, Mystery, Drama",86669039
+Black Panther,2018-02-13,135,"Action, Adventure, Science Fiction",1349926083
+The Butterfly Effect,2004-01-17,113,"Science Fiction, Thriller",96060858
+Angel Has Fallen,2019-08-21,122,"Action, Thriller",146661977
+Batman v Superman: Dawn of Justice,2016-03-23,152,"Action, Adventure, Fantasy",873637528
+The Time Traveler's Wife,2009-08-14,108,"Drama, Romance, Fantasy",101344412
+The Day the Earth Stood Still,2008-12-10,104,"Drama, Science Fiction, Thriller",233093859
+Cars 2,2011-06-11,106,"Animation, Family, Adventure, Comedy",559852396
+Frozen,2013-11-20,102,"Animation, Family, Adventure, Fantasy",1274219009
+"I, Robot",2004-07-15,115,"Action, Science Fiction",347234916
+Dunkirk,2017-07-19,107,"War, Action, Drama",527000000
+Creed III,2023-03-01,116,"Drama, Action",275248615
+Head of State,2003-03-28,95,Comedy,37788228
+Justice League,2023-07-25,90,"Animation, Action, Science Fiction, Adventure",0
+The Jungle Book,1967-10-18,78,"Family, Animation, Adventure",205843612
+Saw IV,2007-10-25,93,"Horror, Thriller, Crime",139352633
+Star Wars: Episode II - Attack of the Clones,2002-05-15,142,"Adventure, Action, Science Fiction",649398328
+Resident Evil: Apocalypse,2004-09-10,94,"Horror, Action, Science Fiction",129394835
+Hellboy,2004-04-02,122,"Fantasy, Action",99318987
+The Simpsons Movie,2007-07-25,87,"Animation, Comedy, Family",527068851
+Halloween,2018-10-18,106,"Horror, Thriller",259900000
+The Matrix Revolutions,2003-11-05,129,"Adventure, Action, Thriller, Science Fiction",424988211
+The Fast and the Furious: Tokyo Drift,2006-06-03,104,"Action, Crime, Drama, Thriller",158964610
+The Curious Case of Benjamin Button,2008-12-25,166,"Drama, Fantasy, Romance",335802786
+Vanilla Sky,2001-12-10,136,"Mystery, Science Fiction, Romance, Fantasy, Thriller, Drama",203388341
+John Carter,2012-03-07,132,"Action, Adventure, Science Fiction",284139100
+Elysium,2013-08-07,109,"Science Fiction, Action, Drama, Thriller",286140700
+Rampage,2018-04-11,107,"Action, Adventure, Science Fiction",428028233
+The Boss Baby,2021-07-01,107,"Animation, Comedy, Adventure, Family",146745280
+Green Lantern,2011-06-14,114,"Adventure, Action, Thriller, Science Fiction",219851172
+Toy Story 4,2019-06-19,100,"Family, Adventure, Animation, Comedy, Fantasy",1073394593
+The Other Guys,2010-08-06,107,"Action, Comedy, Crime",170432927
+Transformers: Age of Extinction,2014-06-25,165,"Science Fiction, Action, Adventure",1104054072
+The Conjuring,2013-07-18,112,"Horror, Thriller",320406242
+The Help,2011-08-09,146,Drama,216639112
+War Room,2015-08-28,120,"Drama, Romance",67790117
+The Second Best Exotic Marigold Hotel,2015-02-26,122,"Drama, Comedy",85978266
+Madea Goes to Jail,2009-02-16,103,"Comedy, Crime, Drama",90508336
+TMNT,2007-03-23,86,"Adventure, Animation, Comedy, Family",95608995
+Mortal Kombat,2023-10-17,80,"Animation, Action, Fantasy",0
+Epic Movie,2007-01-25,85,"Comedy, Action, Adventure",86865564
+Inside Out,2015-06-09,95,"Animation, Family, Adventure, Drama, Comedy",857611174
+The Incredibles,2004-10-27,115,"Action, Adventure, Animation, Family",631442092
+The Huntsman: Winter's War,2016-04-06,114,"Action, Adventure, Drama",164989338
+Fantastic Beasts and Where to Find Them,2016-11-16,132,"Fantasy, Adventure, Family",809342332
+22 Jump Street,2014-06-05,112,"Crime, Comedy, Action",331333876
+Baby Mama,2008-04-25,99,Comedy,64444713
+Along Came Polly,2004-01-16,90,"Comedy, Romance",178311729
+"Phoenix, Oregon",2019-04-11,112,Comedy,0
+Roald Dahl's Matilda the Musical,2022-11-25,117,"Family, Comedy, Fantasy",35602350
+War for the Planet of the Apes,2017-07-11,140,"Drama, Science Fiction, War",490719763
+Maid in Manhattan,2002-12-13,105,"Comedy, Drama, Romance",154906693
+Pitch Perfect 2,2015-05-07,115,"Comedy, Music",287506194
+The Town,2010-09-15,125,"Crime, Drama, Thriller",154026136
+Transformers: Dark of the Moon,2011-06-28,154,"Action, Science Fiction, Adventure",1123794079
+Transformers: Revenge of the Fallen,2009-06-19,149,"Science Fiction, Action, Adventure",836303693
+Pain & Gain,2013-04-18,130,"Action, Crime, Comedy",87305549
+Paul Blart: Mall Cop,2009-01-15,91,"Action, Adventure, Comedy, Family",183293131
+The New Mutants,2020-04-02,94,"Science Fiction, Horror, Action, Mystery, Adventure",49169594
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,2008-02-01,82,"Documentary, Music",70642966
+Tom & Jerry,2021-02-10,101,"Comedy, Family, Animation",136536687
+Rush Hour 3,2007-08-08,91,"Action, Comedy, Crime",258097122
+Avatar: The Way of Water,2022-12-14,192,"Science Fiction, Adventure, Action",2320250281
+Avengers: Endgame,2019-04-24,181,"Adventure, Science Fiction, Action",2800000000
+The Bourne Ultimatum,2007-08-03,115,"Action, Drama, Mystery, Thriller",442824138
+It,2017-09-06,135,"Horror, Fantasy",701800000
+The Woman King,2022-09-16,135,"Action, Drama, History",97250903
+Swallow,2020-01-15,96,"Drama, Thriller, Horror",274674
+The Three Kings,2001-12-12,102,"Comedy, Adventure, Fantasy",0
+Deadpool,2016-02-09,108,"Action, Adventure, Comedy",783100000
+The Twilight Saga: Breaking Dawn - Part 2,2012-11-13,115,"Adventure, Fantasy, Drama, Romance",829747654
+American Gangster,2007-11-02,157,"Drama, Crime",266465037
+Ali G Indahouse,2002-03-21,85,Comedy,25900000
+Paranormal Activity,2007-09-14,86,"Horror, Mystery",193355800
+The Fate of the Furious,2017-04-12,136,"Action, Crime, Thriller",1236005118
+Ant-Man and the Wasp: Quantumania,2023-02-15,125,"Action, Adventure, Science Fiction",476071180
+Blue Beetle,2023-08-16,128,"Action, Science Fiction, Adventure",128563796
+Twilight,2008-11-20,122,"Fantasy, Drama, Romance",393616788
+Me Before You,2016-06-01,110,"Drama, Romance",207945075
+The Last Samurai,2003-12-05,154,"Drama, Action, War",456758981
+Ticket to Paradise,2022-09-08,104,"Comedy, Romance",168763270
+House of Gucci,2021-11-24,158,"Drama, History, Crime",153235995
+Open Season,2006-09-27,86,"Animation, Family, Adventure, Comedy",197309027
+S.W.A.T.,2003-08-08,117,"Action, Thriller, Crime",207725639
+Eight Below,2006-02-17,120,"Adventure, Drama, Family",120455994
+Hotel Transylvania 3: Summer Vacation,2018-06-28,97,"Animation, Comedy, Family, Fantasy",528600000
+The Amazing Spider-Man,2012-06-23,136,"Action, Adventure, Fantasy",757930663
+The Devil Wears Prada,2006-06-29,109,"Comedy, Drama, Romance",326706115
+Death on the Nile,2022-02-09,127,"Mystery, Crime, Thriller",137307235
+Ford v Ferrari,2019-11-13,153,"Drama, Action, History",225508210
+Starsky & Hutch,2004-03-05,101,"Comedy, Crime",170268750
+Thor: The Dark World,2013-10-30,112,"Action, Adventure, Fantasy",644783140
+Children of Men,2006-09-22,109,"Drama, Action, Thriller, Science Fiction",70595464
+Bee Movie,2007-10-28,91,"Family, Animation, Adventure, Comedy",287594577
+21 Jump Street,2012-03-14,109,"Action, Comedy, Crime",201585328
+Avatar,2009-12-15,162,"Action, Adventure, Fantasy, Science Fiction",2923706026
+Forgetting Sarah Marshall,2008-04-17,111,"Comedy, Romance, Drama",105173115
+No Strings Attached,2011-01-21,107,"Comedy, Romance",149228077
+Transporter 2,2005-08-03,87,"Action, Thriller, Crime",89083229
+Home,2015-03-18,94,"Fantasy, Comedy, Animation, Science Fiction, Family",368871007
+The Croods: A New Age,2020-11-25,95,"Animation, Family, Adventure, Fantasy, Comedy",215905815
+The American,2010-08-31,104,"Crime, Drama, Thriller",67876281
+Paranormal Activity 3,2011-10-19,83,"Horror, Mystery",207039844
+Barbarian,2022-09-08,103,"Horror, Mystery, Thriller",45352337
+PAW Patrol: The Mighty Movie,2023-09-21,92,"Animation, Family, Action, Science Fiction",166600000
+Sing 2,2021-12-01,110,"Animation, Family",406000000
+Four Brothers,2005-08-11,109,"Action, Crime",92374674
+Sonic the Hedgehog 2,2022-04-08,123,"Action, Adventure, Family, Comedy",405421518
+The Twilight Saga: Breaking Dawn - Part 1,2011-11-16,117,"Adventure, Fantasy, Romance",712171856
+The Boss,2016-04-07,91,Comedy,78636257
+The Dark Tower,2017-08-03,95,"Fantasy, Action, Science Fiction",113231078
+Elf,2003-10-09,97,"Comedy, Family, Fantasy",225097437
+Clash of the Titans,2010-03-26,106,"Adventure, Fantasy, Action",493214993
+The Conjuring 2,2016-06-08,134,"Horror, Thriller",321834351
+Evan Almighty,2007-06-09,96,"Fantasy, Comedy, Family",174440724
+Hall Pass,2011-02-25,105,"Comedy, Romance",83200000
+Angels & Demons,2009-05-13,138,"Thriller, Mystery",485930816
+Kangaroo Jack,2003-01-17,89,"Action, Adventure, Comedy, Family, Crime",0
+The Perfect Guy,2015-09-11,100,Thriller,60273173
+Turbo,2013-07-11,96,"Animation, Family",282570682
+Lilo & Stitch,2002-06-21,85,"Animation, Family",273144151
+Divergent,2014-03-14,139,"Action, Adventure, Science Fiction",288885818
+Zero Dark Thirty,2012-12-19,157,"Thriller, Drama, History",132820716
+Dodgeball: A True Underdog Story,2004-06-18,92,Comedy,167722310
+Fantastic Four,2015-08-05,100,"Action, Adventure, Science Fiction",167977596
+Guardians of the Galaxy,2023-05-03,150,"Science Fiction, Adventure, Action",845430302
+The Hunger Games,2012-03-12,142,"Science Fiction, Adventure, Fantasy",694394724
+After Earth,2013-05-30,100,"Science Fiction, Action, Adventure",243843127
+The Lost City,2022-03-24,112,"Action, Adventure, Comedy",192907684
+John Wick: Chapter 4,2023-03-22,170,"Action, Thriller, Crime",426978565
+The Last Exorcism,2010-08-27,87,"Horror, Thriller, Mystery",69432527
+The Game Plan,2007-09-28,110,"Comedy, Family",147880543
+The Purge,2013-05-31,86,"Science Fiction, Horror, Thriller",89328627
+Iron Man,2008-04-30,126,"Action, Science Fiction, Adventure",585174222
+ParaNorman,2012-08-03,90,"Family, Animation, Adventure, Comedy",107139399
+Toy Story 3,2010-06-16,103,"Animation, Family, Comedy",1066969703
+Shrek Forever After,2010-05-16,93,"Comedy, Adventure, Fantasy, Animation, Family",752600867
+Madagascar 3: Europe's Most Wanted,2012-06-06,93,"Animation, Family, Comedy, Adventure",746921274
+Darkest Hour,2017-11-22,125,"Drama, History",150847207
+Lucy,2014-07-25,89,"Action, Science Fiction",458863600
+Dolphin Tale,2011-09-22,113,"Drama, Family",95404397
+The Devil Inside,2012-01-06,83,"Thriller, Horror",101758490
+Sin City,2005-04-01,124,"Thriller, Action, Crime",158733820
+Night School,2018-09-27,111,Comedy,33157615
+Contagion,2011-09-08,106,"Drama, Thriller, Science Fiction",137551594
+Wall Street: Money Never Sleeps,2010-09-20,133,"Drama, Crime",134748021
+The Guru,2002-08-21,91,"Comedy, Romance",0
+Bohemian Rhapsody,2018-10-24,135,"Music, Drama, History",903992901
+Johnny English Reborn,2011-09-15,101,"Crime, Action, Comedy",160078586
+Good Luck Chuck,2007-09-21,101,"Comedy, Romance",59768495
+Ambulance,2022-03-16,136,"Thriller, Action",51783040
+Sherlock Holmes: A Game of Shadows,2011-11-22,129,"Adventure, Action, Crime, Mystery",334615000
+The Maze Runner,2014-09-10,113,"Action, Mystery, Science Fiction, Thriller",348319861
+Step Brothers,2008-07-25,98,Comedy,128107642
+Jurassic World,2015-06-06,124,"Action, Adventure, Science Fiction, Thriller",1671537444
+Smile,2022-09-23,115,"Horror, Mystery, Thriller",216135048
+Barbie,2023-07-19,114,"Comedy, Adventure, Fantasy",1440074393
+Minions: The Rise of Gru,2022-06-29,87,"Animation, Comedy, Family",939628210
+Marley & Me,2008-12-25,115,"Comedy, Family",255743093
+Wedding Crashers,2005-07-13,119,"Comedy, Romance",288485135
+Rango,2011-03-02,107,"Animation, Comedy, Family, Western, Adventure",245724603
+The Hitman's Bodyguard,2017-08-16,118,"Action, Comedy",176586701
+Black Adam,2022-10-19,124,"Action, Adventure, Science Fiction",393252111
+Ted,2012-06-29,107,"Comedy, Fantasy",549368315
+Spectre,2015-10-26,148,"Action, Adventure, Thriller",880674609
+Beverly Hills Chihuahua,2008-10-03,91,"Comedy, Family, Adventure, Romance",149281606
+Spider-Man: No Way Home,2021-12-15,148,"Action, Adventure, Science Fiction",1921847111
+Kill Bill: Vol. 2,2004-04-16,136,"Action, Crime, Thriller",152159461
+Dolittle,2020-01-02,101,"Family, Comedy, Fantasy, Adventure",251410631
+Doom,2005-10-20,105,"Action, Horror, Science Fiction",58072119
+Zombieland,2009-10-07,88,"Comedy, Horror",102391540
+The Ugly Truth,2009-07-24,96,"Comedy, Romance",321682600
+War Horse,2011-12-25,146,"War, History, Drama, Adventure",177584879
+Hot Fuzz,2007-02-14,121,"Crime, Action, Comedy",80573774
+The Rundown,2003-09-26,104,"Adventure, Action, Comedy, Thriller",80916492
+Ralph Breaks the Internet,2018-11-20,112,"Family, Animation, Comedy, Adventure",529323962
+Dungeons & Dragons: Honor Among Thieves,2023-03-23,134,"Adventure, Fantasy, Comedy",208177026
+Ghost Rider,2007-01-15,114,"Thriller, Action, Fantasy",228738393
+The Croods,2013-03-15,98,"Animation, Adventure, Family, Fantasy, Comedy, Action",587204668
+Cradle 2 the Grave,2003-02-28,101,"Action, Crime, Drama",56489558
+The House Bunny,2008-08-22,97,"Romance, Comedy",70442940
+Sky Captain and the World of Tomorrow,2004-09-17,107,"Mystery, Action, Thriller, Science Fiction, Adventure",57958696
+Diary of a Wimpy Kid: Rodrick Rules,2011-03-25,99,"Family, Comedy",72526996
+Snakes on a Plane,2006-08-17,105,"Action, Crime, Thriller, Adventure",62022014
+Something's Gotta Give,2003-12-12,128,"Drama, Comedy, Romance",266728738
+Road to Perdition,2002-07-12,117,"Crime, Drama, Thriller",181001478
+Gulliver's Travels,2010-12-23,85,"Family, Comedy, Adventure, Fantasy",237382724
+The Hitchhiker's Guide to the Galaxy,2005-04-28,109,"Adventure, Comedy, Science Fiction",104478416
+Freaky,2020-11-12,102,"Comedy, Fantasy, Horror, Thriller",15104310
+Total Recall,1990-06-01,113,"Action, Adventure, Science Fiction",261317921
+The Chronicles of Narnia: Prince Caspian,2008-05-15,150,"Adventure, Family, Fantasy",419665568
+Peter Rabbit,2018-02-07,93,"Animation, Adventure, Family",351266433
+About a Boy,2002-04-26,101,"Drama, Comedy, Romance",129000000
+Oz the Great and Powerful,2013-03-07,130,"Fantasy, Adventure, Family",491868548
+King Arthur: Legend of the Sword,2017-05-10,126,"Action, Drama, Fantasy",148675066
+Disturbia,2007-04-12,105,"Thriller, Drama, Mystery",117760134
+Murder on the Orient Express,2017-11-03,114,"Mystery, Drama, Crime",352794081
+Jurassic Park,1993-06-11,127,"Adventure, Science Fiction",920100000
+Halloween Kills,2021-10-14,105,"Horror, Thriller",133423964
+Indiana Jones and the Dial of Destiny,2023-06-28,155,"Adventure, Action",382891104
+RV,2006-04-28,99,"Family, Comedy",87528173
+Trolls,2016-10-13,92,"Family, Animation, Fantasy, Adventure, Comedy, Music",346864462
+Gnomeo & Juliet,2011-01-13,84,"Animation, Family",189712432
+A Series of Unfortunate Events,2004-12-16,108,"Adventure, Comedy, Family",209073645
+Paddington,2014-11-24,96,"Comedy, Adventure, Family",259207227
+Spiral,2019-07-14,87,"Horror, Mystery, Thriller",0
+Taken 3,2014-12-16,109,"Thriller, Action",325771424
+Real Steel,2011-09-28,127,"Action, Science Fiction, Drama",299268508
+American Sniper,2014-12-25,133,"War, Action",542307423
+Spider-Man,2023-05-31,140,"Animation, Action, Adventure",683241751
+The King's Speech,2010-11-26,118,"Drama, History",414211549
+Teenage Mutant Ninja Turtles,2023-07-31,100,"Animation, Comedy, Action, Science Fiction",180000000
+Honest Thief,2020-09-03,99,"Thriller, Action, Crime, Drama",31220247
+Despicable Me,2010-07-08,95,"Family, Animation, Comedy",533679475
+Ocean's Twelve,2004-12-09,125,"Thriller, Crime",362744280
+Paranormal Activity 4,2012-10-17,88,Horror,142802657
+Paul,2011-02-14,104,"Adventure, Comedy, Science Fiction",97984015
+X-Men: Days of Future Past,2014-05-15,132,"Action, Adventure, Science Fiction",747862775
+Jungle Cruise,2021-07-28,127,"Action, Adventure, Fantasy",220889446
+Cloudy with a Chance of Meatballs 2,2013-09-26,95,"Animation, Family, Comedy",248384621
+Wonder Woman 1984,2020-12-16,151,"Action, Adventure, Fantasy",169601036
+Star Wars: Episode V - The Empire Strikes Back,1980-05-20,124,"Adventure, Action, Science Fiction",538400000
+Darkness Falls,2003-01-24,86,"Thriller, Horror",0
+The Rental,2020-07-23,88,"Horror, Mystery, Thriller",4296804
+Spider-Man 3,2007-05-01,139,"Fantasy, Action, Adventure",894983373
+X-Men: Apocalypse,2016-05-18,144,"Action, Adventure, Science Fiction, Fantasy",543934787
+Frozen II,2019-11-20,103,"Family, Animation, Adventure, Comedy, Fantasy",1450000000
+Candyman,2021-08-25,91,"Horror, Mystery, Thriller",77411570
+28 Days Later,2002-10-31,113,"Horror, Thriller, Science Fiction",85720385
+Over the Hedge,2006-05-17,83,"Family, Comedy, Animation",343397247
+The Accountant,2016-10-13,128,"Crime, Thriller, Drama",155160045
+American Made,2017-08-18,115,"Action, Comedy, Crime, Drama, Thriller",133511855
+The Green Hornet,2011-01-12,119,"Action, Crime, Comedy",227817248
+Halloween Ends,2022-10-12,111,"Horror, Thriller",104361355
+School of Rock,2003-10-03,110,"Comedy, Music",131095990
+Godzilla: King of the Monsters,2019-05-29,132,"Science Fiction, Action",386600138
+London Has Fallen,2016-03-02,99,"Action, Thriller",205754447
+Aquaman,2018-12-07,143,"Action, Adventure, Fantasy",1148528393
+Glass,2019-01-16,129,"Thriller, Drama, Science Fiction",246999039
+The Social Network,2010-10-01,121,Drama,224920315
+The Lord of the Rings: The Two Towers,2002-12-18,179,"Adventure, Fantasy, Action",926287400
+Rio,2011-04-03,96,"Animation, Adventure, Comedy, Family",484635760
+Beast,2022-08-11,93,"Thriller, Action, Horror",56000000
+Jumper,2008-02-13,88,"Action, Adventure, Science Fiction",222231186
+See How They Run,2022-09-09,98,"Mystery, Comedy, Thriller",21921551
+Just Like Heaven,2005-09-16,95,"Drama, Comedy, Romance, Fantasy",102854431
+The Lord of the Rings: The Fellowship of the Ring,2001-12-18,179,"Adventure, Fantasy, Action",871368364
+Minions,2015-06-17,91,"Family, Animation, Adventure, Comedy",1156730962
+American Wedding,2003-08-01,103,"Comedy, Romance",231449203
+Bride & Prejudice,2004-02-11,111,"Drama, Comedy, Romance",0
+X-Men Origins: Wolverine,2009-04-28,107,"Adventure, Action, Thriller, Science Fiction",373062864
+How to Train Your Dragon: The Hidden World,2019-01-03,104,"Animation, Family, Adventure",524580592
+Jigsaw,2017-10-25,92,"Horror, Mystery, Thriller",102952888
+Obsessed,2009-02-26,108,"Drama, Thriller",73830340
+Big Momma's House 2,2006-01-26,99,"Comedy, Crime",138259062
+Max Payne,2008-10-15,100,"Crime, Action, Drama, Thriller",85416905
+The Creator,2023-09-27,134,"Science Fiction, Action, Thriller",90909118
+Shazam! Fury of the Gods,2023-03-15,130,"Comedy, Action, Fantasy",133838006
+Black Widow,2021-07-07,134,"Action, Adventure, Science Fiction",379751131
+Ocean's Eleven,2001-12-07,116,"Thriller, Crime",450717150
+The Proposal,2009-06-01,108,"Comedy, Romance, Drama",317375031
+Charlie and the Chocolate Factory,2005-07-13,115,"Adventure, Comedy, Family, Fantasy",474968763
+Trolls Band Together,2023-10-12,92,"Animation, Family, Music, Fantasy, Comedy",0
+G-Force,2009-07-24,88,"Animation, Family, Fantasy, Action, Adventure, Comedy",292817841
+Wild Hogs,2007-03-02,100,"Action, Adventure, Comedy",253625427
+Harry Potter and the Prisoner of Azkaban,2004-05-31,141,"Adventure, Fantasy",789804554
+Cheaper by the Dozen,2022-03-18,107,"Family, Comedy",0
+Knowing,2009-03-19,121,"Action, Mystery, Science Fiction, Thriller",155446362
+Eagle Eye,2008-09-25,118,"Mystery, Thriller, Action",178800000
+The Wolverine,2013-07-23,126,"Action, Science Fiction, Adventure, Fantasy",415440673
+The Time Machine,2002-03-04,96,"Science Fiction, Adventure, Action",123729176
+Saw 3D,2010-10-22,90,"Horror, Crime",136151680
+Hulk,2003-06-19,138,"Science Fiction, Adventure, Action",245360480
+Abraham Lincoln: Vampire Hunter,2012-06-20,105,"Action, Fantasy, Horror",116471580
+Rise of the Guardians,2012-11-21,97,"Family, Animation, Fantasy, Action, Adventure",306941670
+Safe House,2012-02-08,115,"Action, Thriller",208076205
+Jackass Number Two,2006-09-22,92,"Action, Comedy, Documentary",72778712
+1917,2019-12-25,119,"War, Action, Drama",394638258
+Dickie Roberts: Former Child Star,2003-09-04,98,Comedy,0
+The Vow,2012-02-05,104,"Drama, Romance",196114570
+Saw III,2006-10-26,108,"Horror, Thriller, Crime",164874275
+Dumb and Dumber To,2014-11-12,110,Comedy,169837010
+The Nun,2018-09-05,96,"Horror, Mystery, Thriller",365582797
+Taylor Swift: The Eras Tour,2023-10-13,169,Music,203400000
+A Haunting in Venice,2023-09-13,104,"Mystery, Thriller, Crime",110800000
+Cinderella,2015-03-06,105,"Romance, Fantasy, Family, Drama",543514353
+Ice Age,2002-03-10,81,"Animation, Comedy, Family, Adventure",383257136
+Nobody,2021-03-18,92,"Action, Crime, Thriller",61779301
+Gone Girl,2014-10-01,149,"Mystery, Thriller, Drama",369330363
+Star Trek Into Darkness,2013-05-05,132,"Action, Adventure, Science Fiction",467365246
+The Mummy: Tomb of the Dragon Emperor,2008-07-01,112,"Adventure, Action, Fantasy",403449830
+Underworld: Awakening,2012-01-19,88,"Fantasy, Action, Horror",160112671
+Batman Begins,2005-06-10,140,"Action, Crime, Drama",374218673
+Cloudy with a Chance of Meatballs,2009-09-17,90,"Animation, Comedy, Family",242988466
+Kick-Ass 2,2013-07-17,103,"Action, Adventure, Crime",60700000
+17 Again,2009-03-11,102,Comedy,136316880
+Friday the 13th,1980-05-09,95,Horror,59754601
+Finding Dory,2016-06-16,97,"Adventure, Animation, Comedy, Family",1028570889
+The Lego Ninjago Movie,2017-09-21,101,"Family, Animation, Action, Adventure, Comedy",123081555
+The Invisible Man,2020-02-26,124,"Thriller, Science Fiction, Horror",144492724
+The BFG,2016-06-01,117,"Adventure, Family, Fantasy",195243411
+42,2013-04-12,128,Drama,95020213
+Hannah Montana: The Movie,2009-04-10,102,"Comedy, Drama, Family, Music, Romance",155545279
+Olympus Has Fallen,2013-03-20,120,"Action, Thriller",170270201
+National Treasure,2004-11-19,131,"Adventure, Action, Thriller, Mystery",347512318
+Morbius,2022-03-30,105,"Action, Science Fiction, Fantasy",167500000
+Paper Towns,2015-06-18,109,"Mystery, Drama, Romance",85512300
+Oblivion,2013-04-10,124,"Action, Science Fiction, Adventure, Mystery",286168572
+The Super Mario Bros. Movie,2023-04-05,93,"Animation, Family, Adventure, Fantasy, Comedy",1355725263
+Scary Movie 4,2006-04-12,83,Comedy,178262620
+Ready Player One,2018-03-28,140,"Adventure, Action, Science Fiction",607274134
+Jason Bourne,2016-07-27,123,"Action, Thriller, Mystery, Drama",415484914
+The Haunted Mansion,2003-11-26,88,"Thriller, Fantasy, Comedy, Family, Mystery",182290266
+Johnny English,2003-03-14,88,"Adventure, Action, Comedy",160583018
+Exodus: Gods and Kings,2014-12-03,150,"Adventure, Drama, Action",268031828
+"10,000 BC",2008-03-04,109,"Adventure, Action, Drama, Fantasy",269784201
+Guess Who,2005-03-25,105,"Comedy, Romance",103121466
+Ride Along 2,2016-01-14,102,"Action, Comedy",124827316
+Elvis,2022-06-22,159,"Drama, Music, History",288670284
+The Pink Panther,2006-02-10,93,"Comedy, Mystery, Crime, Adventure, Family",158851357
+Harry Potter and the Order of the Phoenix,2007-07-08,138,"Adventure, Fantasy",938212738
+Mrs. Brown's Boys D'Movie,2014-06-27,94,Comedy,23000000
+Jumanji: Welcome to the Jungle,2017-12-09,119,"Adventure, Action, Comedy, Fantasy",995339117
+The Grand Budapest Hotel,2014-02-26,100,"Comedy, Drama",174600318
+Knock at the Cabin,2023-02-01,100,"Thriller, Mystery, Horror",54708659
+Spy,2015-05-06,120,"Action, Comedy, Crime",235666219
+The Exorcism of Emily Rose,2005-09-09,122,"Crime, Drama, Horror, Thriller",145166804
+The Dark Knight,2008-07-16,152,"Drama, Action, Crime, Thriller",1004558444
+Les Misérables,1982-10-20,220,"Drama, History",0
+The Italian Job,2003-05-30,110,"Action, Crime",176070171
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010-12-02,113,"Adventure, Family, Fantasy",415686217
+Puss in Boots: The Last Wish,2022-12-07,103,"Adventure, Fantasy, Animation, Comedy, Family, Action",482129780
+Solo: A Star Wars Story,2018-05-15,135,"Science Fiction, Adventure, Action",392952373
+Billy Elliot,2000-09-28,110,"Drama, Comedy, Music",109280263
+Lakeview Terrace,2008-09-19,110,"Drama, Crime, Thriller",27640028
+Bad Boys II,2003-07-18,147,"Adventure, Action, Comedy, Thriller, Crime",273339556
+Hitman's Wife's Bodyguard,2021-06-14,117,"Action, Comedy, Crime, Thriller",70060492
+Unhinged,2020-07-16,90,"Action, Thriller",39238300
+Ocean's Thirteen,2007-06-05,122,"Crime, Thriller",311312624
+Incredibles 2,2018-06-14,118,"Action, Adventure, Animation, Family",1242805359
+Transformers: The Last Knight,2017-06-16,154,"Action, Adventure, Science Fiction",605425157
+Fahrenheit 9/11,2004-06-25,123,Documentary,222446882
+Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,116,"Drama, Horror",152000000
+Burn After Reading,2008-09-05,96,"Comedy, Drama",163720069
+Insidious: Chapter 2,2013-09-12,106,"Horror, Thriller",161000000
+Harry Potter and the Half-Blood Prince,2009-07-15,153,"Adventure, Fantasy",933959197
+2012,2009-10-10,158,"Action, Adventure, Science Fiction",791217826
+Tropic Thunder,2008-08-09,107,"Action, Comedy, Adventure, War",195702811
+The Equalizer 3,2023-08-30,109,"Action, Thriller, Crime",176933602
+Meet the Spartans,2008-01-24,84,Comedy,85897593
+Legend,2015-09-09,132,"Crime, Thriller",42972994
+Indiana Jones and the Kingdom of the Crystal Skull,2008-05-21,122,"Adventure, Action",786636033
+Signs,2002-08-02,106,"Drama, Thriller, Science Fiction, Mystery",408247917
+Doctor Strange,2016-10-25,115,"Action, Adventure, Fantasy",676343174
+Hitch,2005-02-11,118,"Comedy, Drama, Romance",371600000
+The Lorax,2012-03-01,86,"Animation, Family",348840316
+The Hills Have Eyes,2006-03-10,107,"Horror, Thriller",69623713
+Hide and Seek,2005-01-27,101,"Horror, Mystery",127369981
+Panic Room,2002-03-29,111,"Crime, Drama, Thriller",197079546
+The Hunger Games: Mockingjay - Part 1,2014-11-19,123,"Science Fiction, Adventure, Thriller",755356711
+Resistance,2020-03-27,120,"War, History, Drama",449753
+Music and Lyrics,2007-02-09,105,"Comedy, Music, Romance",145896422
+X2,2003-04-27,133,"Adventure, Action, Science Fiction",407711549
+The Rite,2011-01-28,114,"Drama, Thriller, Horror",96047633
+Get Him to the Greek,2010-06-03,109,"Adventure, Comedy, Music",90029656
+Changing Lanes,2002-04-07,99,"Thriller, Action, Drama",94935764
+The Blind Side,2009-11-20,129,Drama,309208309
+I Can Do Bad All by Myself,2009-09-11,113,"Drama, Comedy",0
+Mission: Impossible - Ghost Protocol,2011-12-07,133,"Action, Thriller, Adventure",694713380
+Mean Girls,2004-04-30,97,Comedy,130126277
+Chronicle,2012-02-01,84,"Science Fiction, Drama, Thriller",145000000
+Think Like a Man,2012-04-20,122,"Comedy, Romance",96070507
+12 Years a Slave,2013-10-18,134,"Drama, History",187000000
+The Predator,2018-09-05,107,"Science Fiction, Action, Adventure",160542134
+Space Jam: A New Legacy,2021-07-08,115,"Family, Animation, Comedy, Science Fiction",163692228
+Fame,1980-05-16,134,"Drama, Music",42000000
+The Day After Tomorrow,2004-05-26,124,"Action, Adventure, Science Fiction, Thriller",552639571
+Taken,2008-02-18,94,"Action, Thriller",226830568
+Spider-Man: Across the Spider-Verse,2023-05-31,140,"Animation, Action, Adventure",683241751
+The Nun II,2023-09-06,110,"Horror, Mystery, Thriller",262010000
+DC League of Super-Pets,2022-07-27,105,"Animation, Action, Family, Comedy, Science Fiction",203000000
+Captain America: The First Avenger,2011-07-22,124,"Action, Adventure, Science Fiction",370569774
+The Woman in Black,2012-02-03,95,"Drama, Horror, Thriller",127730736
+Crazy Rich Asians,2018-08-15,121,"Comedy, Drama, Romance",238539198
+Mr. Deeds,2002-06-28,96,"Comedy, Romance",171269535
+The SpongeBob Movie: Sponge Out of Water,2015-01-28,93,"Family, Adventure, Comedy, Fantasy, Animation",311594032
+End of Watch,2012-09-20,109,"Crime, Drama, Thriller",48126384
+Strike,1998-08-21,97,"Drama, Comedy",913834
+Dumbo,1941-10-31,64,"Animation, Family",1600000
+Beowulf,2007-11-05,115,"Adventure, Action, Animation",195735876
+Just Go with It,2011-02-10,117,"Comedy, Romance",214945591
+Two Weeks Notice,2002-12-19,101,"Comedy, Romance",199043242
+Hansel & Gretel: Witch Hunters,2013-01-17,88,"Fantasy, Horror, Action",226349749
+Fred Claus,2007-11-09,116,"Action, Comedy, Drama",97838349
+A Star Is Born,2018-10-03,136,"Music, Drama, Romance",433888866
+Last Christmas,2019-11-07,102,"Comedy, Romance",121550750
+Minority Report,2002-06-20,145,"Action, Thriller, Science Fiction, Mystery",358372926
+Serenity,2005-09-25,119,"Science Fiction, Action, Adventure, Thriller",38869464
+Arrival,2016-11-10,116,"Drama, Science Fiction, Mystery",203388186
+Ocean's Eight,2018-06-07,111,"Crime, Comedy, Action",297718711
+Free Guy,2021-08-11,115,"Comedy, Adventure, Science Fiction",331526598
+Iron Man 3,2013-04-18,130,"Action, Adventure, Science Fiction",1215577205
+Race to Witch Mountain,2009-03-12,98,"Adventure, Family, Fantasy, Science Fiction, Thriller, Action",106303988
+Terminator Salvation,2009-05-20,115,"Action, Science Fiction, Thriller",371353001
+The Polar Express,2004-11-10,100,"Animation, Adventure, Family, Fantasy",310634054
+Fast & Furious Presents: Hobbs & Shaw,2019-08-01,137,"Action, Adventure, Comedy",760098996
+The Da Vinci Code,2006-05-17,149,"Thriller, Mystery",767820459
+Think Like a Man Too,2014-06-20,105,"Comedy, Romance",70181428
+When a Stranger Calls,2006-02-03,87,"Horror, Mystery",67062123
+Flightplan,2005-09-22,98,"Thriller, Drama, Mystery",223387299
+Valentine's Day,2010-02-10,125,"Comedy, Romance",216485654
+Alien vs. Predator,2004-08-12,101,"Adventure, Science Fiction, Action, Horror",177427090
+Uncharted,2022-02-10,116,"Action, Adventure",407141258
+Sex and the City,2008-05-12,145,"Comedy, Drama, Romance",418765519
+"Lyle, Lyle, Crocodile",2022-10-07,106,"Comedy, Family, Music",104088441
+Mama,2013-01-17,100,Horror,146497771
+The Invitation,2022-08-24,105,"Horror, Thriller",33628000
+Red Dragon,2002-10-02,124,"Crime, Thriller, Horror",209196298
+Jackass 3D,2010-10-15,99,"Comedy, Documentary, Action",117224271
+The Suicide Squad,2021-07-28,132,"Action, Comedy, Adventure",168717425
+The Other Woman,2014-04-16,109,"Comedy, Romance",196781193
+Blade Runner 2049,2017-10-04,164,"Science Fiction, Drama",259239658
+Fantastic Beasts: The Crimes of Grindelwald,2018-11-14,134,"Fantasy, Adventure, Family",654855901
+Anger Management,2003-04-11,106,Comedy,195745823
+Daredevil,2003-02-14,103,"Fantasy, Action",179179718
+Shrek 2,2004-05-19,93,"Animation, Family, Comedy, Fantasy, Adventure",928760770
+Are We There Yet?,2005-01-20,95,"Family, Adventure, Comedy, Romance",97918663
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020-10-16,117,"Action, Animation, Adventure, Fantasy, Thriller",503063688
+Ice Age: Dawn of the Dinosaurs,2009-06-26,94,"Animation, Comedy, Family, Adventure",886686817
+The Boxtrolls,2014-09-10,97,"Animation, Comedy, Family, Fantasy",108255770
+Bolt,2008-11-21,98,"Animation, Family, Adventure, Comedy",309979994
+Why Did I Get Married?,2007-10-12,113,"Comedy, Drama",55184721
+Captain Phillips,2013-10-10,134,"Action, Drama, Thriller",218791811
+True Grit,1969-06-11,128,Western,31132592
+The Matrix Reloaded,2003-05-15,138,"Adventure, Action, Thriller, Science Fiction",738599701
+Coco,2017-10-27,105,"Family, Animation, Fantasy, Music, Comedy, Adventure",800526015
+Kong: Skull Island,2017-03-08,118,"Action, Adventure, Fantasy",566652812
+Fast Five,2011-04-20,130,"Action, Thriller, Crime",626137675
+Pride & Prejudice,2005-09-16,127,"Drama, Romance",121616555
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,143,"Adventure, Family, Fantasy",745013115
+Jackass Forever,2022-02-01,96,"Comedy, Documentary",80340218
+Open Water,2003-10-26,79,"Drama, Thriller, Horror",54667954
+Terminator: Dark Fate,2019-10-23,128,"Science Fiction, Adventure, Action",261119292
+The Lord of the Rings: The Return of the King,2003-12-01,201,"Adventure, Fantasy, Action",1118888979
+Freddy vs. Jason,2003-08-15,97,Horror,116643421
+Dredd,2012-09-07,95,"Action, Science Fiction",41037742
+Peter Rabbit 2: The Runaway,2021-03-25,93,"Family, Comedy, Adventure, Animation, Fantasy",153000000
+The Texas Chainsaw Massacre,2003-05-21,98,Horror,107363905
+Cars 3,2017-06-15,102,"Animation, Adventure, Comedy, Family",383925276
+Paranormal Activity 2,2010-10-20,91,"Horror, Mystery",177512032
+Enchanted,2007-11-20,107,"Comedy, Family, Fantasy, Romance",340487652
+The Princess and the Frog,2009-12-08,98,"Romance, Family, Animation",270997378
+27 Dresses,2008-01-10,111,"Comedy, Romance",160259319
+Ant-Man and the Wasp,2023-02-15,125,"Action, Adventure, Science Fiction",476071180
+Come Play,2020-10-28,96,"Horror, Mystery, Thriller",8119285
+Scream 4,2011-04-11,111,"Horror, Mystery",97231420
+Aladdin,2019-05-22,127,"Adventure, Fantasy, Romance, Family",1054304000
+Watchmen,2009-03-04,163,"Action, Mystery, Science Fiction",185258983
+Queen of the Damned,2002-02-10,101,"Drama, Fantasy, Horror",45479110
+Little Fockers,2010-12-21,98,"Comedy, Romance",310650585
+Dawn of the Dead,2004-03-19,101,"Horror, Action",102278712
+WALL·E,2008-06-22,98,"Animation, Family, Science Fiction",521311860
+The Interpreter,2005-04-08,128,"Crime, Thriller",162944923
+V for Vendetta,2006-02-23,132,"Action, Thriller, Science Fiction",132511035
+Scary Movie 3,2003-10-24,84,Comedy,220673217
+Shrek the Third,2007-05-17,93,"Fantasy, Adventure, Animation, Comedy, Family",813367380
+The Messengers,2007-02-02,90,"Mystery, Thriller, Horror",55060212
+A Quiet Place,2018-04-03,91,"Horror, Drama, Science Fiction",341000000
+Top Gun: Maverick,2022-05-24,131,"Action, Drama",1488732821
+The Secret Life of Pets 2,2019-05-24,86,"Adventure, Animation, Comedy, Family",429434163
+Godzilla,2014-05-14,123,"Action, Drama, Science Fiction",529076069
+Super 8,2011-06-08,112,"Thriller, Science Fiction, Mystery",260095986
+Bangkok Dangerous,2001-09-22,99,"Action, Crime, Thriller",42487390
+Birds of Prey,2020-02-05,108,"Action, Crime",205372791
+Kung Fu Panda,2008-06-04,90,"Action, Adventure, Animation, Family, Comedy",631744560
+Closer,2004-12-03,104,"Drama, Romance",115505027
+The Magnificent Seven,2016-09-14,132,"Adventure, Action, Western",162360636
+The Secret Life of Pets,2016-06-18,86,"Adventure, Comedy, Animation, Family",875457937
+The Bucket List,2023-08-03,129,"Comedy, Horror, Action",0
+Bridget Jones's Baby,2016-09-14,123,"Comedy, Romance",211952420
+War of the Worlds,2005-06-28,117,"Adventure, Thriller, Science Fiction",603873119
+Slumdog Millionaire,2008-11-12,120,"Drama, Romance",378410542
+State of Play,2009-04-17,127,Thriller,87812371
+Fifty Shades of Grey,2015-02-11,125,"Drama, Romance, Thriller",571006128
+Zootopia,2016-02-11,109,"Animation, Adventure, Family, Comedy",1023784195
+The Hobbit: The Desolation of Smaug,2013-12-11,161,"Fantasy, Adventure, Action",958400000
+Alita: Battle Angel,2019-01-31,122,"Action, Science Fiction, Adventure",404980543
+Collateral,2004-08-04,120,"Drama, Crime, Thriller",220239925
+The Karate Kid,2010-06-10,140,"Action, Adventure, Drama, Family",359126022
+The Passion of the Christ,2004-02-25,127,Drama,611900000
+2 Guns,2013-08-02,109,"Action, Comedy, Crime",131940411
+Catch Me If You Can,2002-12-16,141,"Drama, Crime",352114312
+Five Nights at Freddy's,2023-10-25,110,"Horror, Mystery",149400000
+The Secret Garden,2020-07-08,99,"Family, Fantasy, Drama",889816
+No Good Deed,2014-09-10,84,"Crime, Thriller",53830415
+Thor: Love and Thunder,2022-07-06,119,"Fantasy, Action, Comedy",760928081
+X-Men: First Class,2012-06-05,23,Documentary,0
+Shang-Chi and the Legend of the Ten Rings,2021-09-01,132,"Action, Adventure, Fantasy",432243292
+Star Wars: Episode III - Revenge of the Sith,2005-05-17,140,"Adventure, Action, Science Fiction",850000000
+How to Lose a Guy in 10 Days,2003-02-07,116,"Comedy, Romance",177502387
+Big Hero 6,2014-10-24,102,"Adventure, Family, Animation, Action, Comedy",657827828
+Invincible,2006-08-25,105,"Drama, History",57806952
+Chappie,2015-03-04,120,"Crime, Action, Science Fiction",104399548
+Spider-Man: Far from Home,2019-06-28,129,"Action, Adventure, Science Fiction",1131927996
+Wonder Woman,2017-05-30,141,"Action, Adventure, Fantasy",822854286
+The Bank Job,2008-02-28,112,"Thriller, Crime, Drama",64828421
+Click,2006-06-23,107,"Comedy, Drama, Fantasy",240685326
+A Good Day to Die Hard,2013-02-06,98,"Action, Thriller",304654182
+Couples Retreat,2009-09-19,113,"Comedy, Romance",171844840
+The Revenant,2015-12-25,157,"Western, Drama, Adventure",532950503
+In Her Shoes,2005-10-07,130,"Comedy, Drama, Romance",83073883
+Tinker Tailor Soldier Spy,2011-09-16,127,"Drama, Thriller, Mystery",80630608
+The Fault in Our Stars,2014-05-16,126,"Romance, Drama",307166834
+Transformers,2007-06-27,143,"Adventure, Science Fiction, Action",709709780
+Apocalypto,2006-12-07,139,"Action, Drama, History",120673227
+Alice in Wonderland,1951-07-28,75,"Animation, Family, Fantasy, Adventure",57200000
+The Break-Up,2006-06-01,106,"Romance, Comedy",205668210
+Phone Booth,2003-04-04,81,Thriller,97837138
+King Kong,2005-12-12,187,"Adventure, Drama, Action",562363449
+Mr. Peabody & Sherman,2014-02-07,92,"Animation, Adventure, Family",272912430
+National Treasure: Book of Secrets,2007-12-13,124,"Action, Adventure, Mystery, Thriller",459242249
+Dear John,2010-02-04,108,"Drama, Romance, War",114977104
+Sully,2016-09-07,96,"Drama, History",240797623
+Black Hawk Down,2001-12-28,145,"Action, History, War",172989651
+True History of the Kelly Gang,2019-11-23,124,"Crime, Drama, Western, Thriller",471152
+The Forbidden Kingdom,2008-04-18,104,"Action, Adventure, Fantasy",127906624
+Rocky Balboa,2006-12-20,101,Drama,155929020
+Downton Abbey: A New Era,2022-04-27,125,"Drama, Romance",88000000
+Glory Road,2006-01-13,118,"Drama, History",42647449
+Sweet Home Alabama,2002-09-26,108,"Comedy, Romance",180622424
+Bullet Train,2022-08-03,126,"Action, Comedy, Thriller",239268602
+The Flash,2023-06-13,144,"Action, Adventure, Science Fiction",268375616

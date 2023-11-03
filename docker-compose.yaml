@@ -1,4 +1,4 @@
-
+# Docker images were imported for Airflow and Postgres and pgAdmin from the internet, and integrated.
 ---
 version: '3.8'
 x-airflow-common:
